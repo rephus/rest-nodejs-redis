@@ -1,0 +1,1051 @@
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/var/www/coconauts/geolocation/geolocation.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+13:12:40 [INFO] rest: Rest API started on http://localhost:8395
+13:24:8 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:24:8 [INFO] rest: Rest API started on http://localhost:8395
+13:24:10 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:24:11 [INFO] rest: Rest API started on http://localhost:8395
+13:24:29 [INFO] rest: Received GET params {}
+13:24:31 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:24:32 [INFO] rest: Rest API started on http://localhost:8395
+13:24:37 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:24:38 [INFO] rest: Rest API started on http://localhost:8395
+13:24:43 [INFO] rest: Received GET params {}
+13:24:50 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:24:50 [INFO] rest: Rest API started on http://localhost:8395
+13:25:14 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:25:15 [INFO] rest: Rest API started on http://localhost:8395
+13:25:25 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:25:25 [INFO] rest: Rest API started on http://localhost:8395
+13:27:16 [INFO] rest: Received GET params {}
+13:27:18 [INFO] rest: Received GET params {}
+13:27:21 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:27:22 [INFO] rest: Rest API started on http://localhost:8395
+13:31:57 [INFO] rest: Received GET params {}
+13:33:22 [INFO] rest: Received GET params {}
+13:33:25 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:33:25 [INFO] rest: Rest API started on http://localhost:8395
+13:33:46 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:33:47 [INFO] rest: Rest API started on http://localhost:8395
+13:34:32 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:34:32 [INFO] rest: Rest API started on http://localhost:8395
+13:34:34 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:34:35 [INFO] rest: Rest API started on http://localhost:8395
+13:34:55 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:34:55 [INFO] rest: Rest API started on http://localhost:8395
+13:35:27 [INFO] rest: Received GET params {}
+13:35:28 [INFO] rest: Received GET params {}
+13:35:43 [INFO] rest: Received GET params {}
+13:35:47 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:35:48 [INFO] rest: Rest API started on http://localhost:8395
+13:35:50 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:35:51 [INFO] rest: Rest API started on http://localhost:8395
+13:36:16 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:36:17 [INFO] rest: Rest API started on http://localhost:8395
+13:37:1 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+
+/var/www/coconauts/geolocation/app.js:21
+        var keys = Object.keys(map);
+                          ^
+TypeError: Object.keys called on non-object
+    at Function.keys (native)
+    at Command.callback (/var/www/coconauts/geolocation/app.js:21:27)
+    at normal_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:714:21)
+    at RedisClient.return_reply (/var/www/coconauts/geolocation/node_modules/redis/index.js:816:9)
+    at JavascriptRedisParser.Parser.returnReply (/var/www/coconauts/geolocation/node_modules/redis/index.js:188:18)
+    at JavascriptRedisParser.execute (/var/www/coconauts/geolocation/node_modules/redis-parser/lib/parser.js:430:12)
+    at Socket.<anonymous> (/var/www/coconauts/geolocation/node_modules/redis/index.js:267:27)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+13:37:2 [INFO] rest: Rest API started on http://localhost:8395
+13:37:12 [INFO] rest: Rest API started on http://localhost:8395
+13:37:12 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:37:13 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:37:45 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:37:49 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:37:50 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:37:55 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:38:12 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:40:24 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:46:11 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:46:20 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:47:25 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:50:14 [INFO] rest: Received POST body {}
+13:50:26 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:50:27 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+13:53:33 [INFO] rest: Received POST body {}
+13:54:55 [INFO] rest: Received POST body {}
+13:56:30 [INFO] rest: Received POST body {}
+13:56:52 [INFO] rest: Received GET params {}
+13:57:10 [INFO] rest: Received POST body {}
+13:57:36 [INFO] rest: Received POST body {}
+13:58:21 [INFO] rest: Received POST body {}
+Error: invalid json
+    at error (/var/www/coconauts/geolocation/node_modules/body-parser/index.js:97:13)
+    at /var/www/coconauts/geolocation/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/var/www/coconauts/geolocation/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:180:16)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+Error: invalid json
+    at error (/var/www/coconauts/geolocation/node_modules/body-parser/index.js:97:13)
+    at /var/www/coconauts/geolocation/node_modules/body-parser/index.js:50:63
+    at IncomingMessage.onEnd (/var/www/coconauts/geolocation/node_modules/raw-body/index.js:119:7)
+    at IncomingMessage.g (events.js:180:16)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+14:3:27 [INFO] rest: Received POST body {"latitude":51.5296836,"longitude":-0.080295,"accuracy":18.309999465942383,"altitude":0,"timestamp":1478869008842,"speed":0,"heading":0,"user":"rephus"}
+14:3:33 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+14:16:23 [INFO] rest: Received POST body {"latitude":51.5296836,"longitude":-0.080295,"accuracy":20,"altitude":0,"timestamp":1478869784819,"speed":0,"heading":0,"user":"rephus"}
+14:16:28 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+14:18:33 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+14:20:31 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+14:26:54 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+14:26:55 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+14:34:18 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+14:59:52 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+15:4:42 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+15:5:40 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+15:6:43 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+15:8:56 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+15:10:2 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+15:15:39 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+15:19:41 [INFO] rest: Received GET params {}
+15:31:35 [INFO] rest: Received GET params {}
+16:22:44 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+16:38:47 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:20:47 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:37:20 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:37:21 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:38:13 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:38:41 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:39:23 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:39:29 [INFO] rest: Received POST body {"latitude":51.5425865,"longitude":-0.1231235,"accuracy":20,"altitude":0,"timestamp":1478881970423,"speed":0,"heading":0,"user":"marbu"}
+17:39:52 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:41:58 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:42:16 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+17:42:16 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+18:2:49 [INFO] rest: Received POST body {"latitude":51.5425865,"longitude":-0.1230315,"accuracy":20,"altitude":0,"timestamp":1478883370067,"speed":0,"heading":0,"user":"marbu"}
+18:3:17 [INFO] rest: Received POST body {"latitude":51.5425865,"longitude":-0.1230315,"accuracy":10,"altitude":0,"timestamp":1478883399098,"speed":0,"heading":0,"user":"marbu"}
+18:16:14 [INFO] rest: Received POST body {"latitude":51.5296836,"longitude":-0.080295,"accuracy":20,"altitude":0,"timestamp":1478884169375,"speed":0,"heading":0,"user":"rephus"}
+18:16:54 [INFO] rest: Received POST body {"latitude":51.5296836,"longitude":-0.080295,"accuracy":10,"altitude":0,"timestamp":1478884214179,"speed":0,"heading":0,"user":"rephus"}
+18:22:12 [INFO] rest: Received POST body {"latitude":51.5425865,"longitude":-0.1230315,"accuracy":20,"altitude":0,"timestamp":1478884532397,"speed":0,"heading":0,"user":"marbu"}
+18:22:41 [INFO] rest: Received POST body {"latitude":51.5425865,"longitude":-0.1230315,"accuracy":10,"altitude":0,"timestamp":1478884559299,"speed":0,"heading":0,"user":"marbu"}
+18:23:21 [INFO] rest: Received POST body {"latitude":51.5425865,"longitude":-0.1230315,"accuracy":20,"altitude":0,"timestamp":1478884600355,"speed":0,"heading":0,"user":"marbu"}
+18:27:23 [INFO] rest: Received POST body {"latitude":51.5425865,"longitude":-0.1230315,"accuracy":20,"altitude":0,"timestamp":1478884842801,"speed":0,"heading":0,"user":"marbu"}
+18:46:43 [INFO] rest: Received POST body {"latitude":51.5296836,"longitude":-0.080295,"accuracy":18.399999618530273,"altitude":0,"timestamp":1478886004474,"speed":0,"heading":0,"user":"rephus"}
+18:47:14 [INFO] rest: Received POST body {"latitude":51.5296836,"longitude":-0.080295,"accuracy":18.410999298095703,"altitude":0,"timestamp":1478886035400,"speed":0,"heading":0,"user":"rephus"}
+18:48:10 [INFO] rest: Received POST body {"latitude":51.5296836,"longitude":-0.080295,"accuracy":18.440000534057617,"altitude":0,"timestamp":1478886091618,"speed":0,"heading":0,"user":"rephus"}
+18:50:31 [INFO] rest: Received POST body {"latitude":51.5296836,"longitude":-0.080295,"accuracy":18.49799919128418,"altitude":0,"timestamp":1478886232226,"speed":0,"heading":0,"user":"rephus"}
+18:53:4 [INFO] rest: Received POST body {"latitude":51.5296836,"longitude":-0.080295,"accuracy":18.49799919128418,"altitude":0,"timestamp":1478886385786,"speed":0,"heading":0,"user":"rephus"}
+18:54:37 [INFO] rest: Received POST body {"latitude":51.5296289,"longitude":-0.0802623,"accuracy":20,"altitude":0,"timestamp":1478886478875,"speed":0,"heading":0,"user":"rephus"}
+19:7:35 [INFO] rest: Received POST body {"latitude":51.5425865,"longitude":-0.1231235,"accuracy":20,"altitude":0,"timestamp":1478887254285,"speed":0,"heading":0,"user":"marbu"}
+19:12:59 [INFO] rest: Received POST body {"latitude":51.5425865,"longitude":-0.1230315,"accuracy":20,"altitude":0,"timestamp":1478887580392,"speed":0,"heading":0,"user":"marbu"}
+19:13:31 [INFO] rest: Received POST body {"latitude":51.5425351,"longitude":-0.1231118,"accuracy":10,"altitude":0,"timestamp":1478887608271,"speed":0,"heading":0,"user":"marbu"}
+19:14:45 [INFO] rest: Received POST body {"latitude":51.5422577,"longitude":-0.123214,"accuracy":20.010000228881836,"altitude":0,"timestamp":1478887655077,"speed":0,"heading":0,"user":"marbu"}
+19:14:46 [INFO] rest: Received POST body {"latitude":51.5419279,"longitude":-0.1243161,"accuracy":20.533000946044922,"altitude":0,"timestamp":1478887678158,"speed":0,"heading":0,"user":"marbu"}
+19:14:55 [INFO] rest: Received POST body {"latitude":51.5419278,"longitude":-0.1244081,"accuracy":20.208999633789062,"altitude":0,"timestamp":1478887695791,"speed":0,"heading":0,"user":"marbu"}
+19:15:15 [INFO] rest: Received POST body {"latitude":51.5417632,"longitude":-0.1246833,"accuracy":20,"altitude":0,"timestamp":1478887716528,"speed":0,"heading":0,"user":"marbu"}
+19:15:45 [INFO] rest: Received POST body {"latitude":51.541722,"longitude":-0.1247521,"accuracy":10,"altitude":0,"timestamp":1478887746687,"speed":0,"heading":0,"user":"marbu"}
+19:16:5 [INFO] rest: Received POST body {"latitude":51.5416795,"longitude":-0.124795,"accuracy":10,"altitude":0,"timestamp":1478887766605,"speed":0,"heading":0,"user":"marbu"}
+19:16:15 [INFO] rest: Received POST body {"latitude":51.5416377,"longitude":-0.1248388,"accuracy":10,"altitude":0,"timestamp":1478887776788,"speed":0,"heading":0,"user":"marbu"}
+19:16:53 [INFO] rest: Received POST body {"latitude":51.5387844,"longitude":-0.1250148,"accuracy":35.35499954223633,"altitude":0,"timestamp":1478887814453,"speed":0,"heading":0,"user":"marbu"}
+19:17:2 [INFO] rest: Received POST body {"latitude":51.5388732,"longitude":-0.1251761,"accuracy":28.867000579833984,"altitude":0,"timestamp":1478887823941,"speed":0,"heading":0,"user":"marbu"}
+19:17:12 [INFO] rest: Received POST body {"latitude":51.5389177,"longitude":-0.1252568,"accuracy":25,"altitude":0,"timestamp":1478887833398,"speed":0,"heading":0,"user":"marbu"}
+19:17:47 [INFO] rest: Received POST body {"latitude":51.5389743,"longitude":-0.1252706,"accuracy":14.756999969482422,"altitude":0,"timestamp":1478887869085,"speed":0,"heading":0,"user":"marbu"}
+19:17:56 [INFO] rest: Received POST body {"latitude":51.5391464,"longitude":-0.1250924,"accuracy":11.87399959564209,"altitude":0,"timestamp":1478887878164,"speed":0,"heading":0,"user":"marbu"}
+19:18:5 [INFO] rest: Received POST body {"latitude":51.5392073,"longitude":-0.125007,"accuracy":10.210000038146973,"altitude":0,"timestamp":1478887887127,"speed":0,"heading":0,"user":"marbu"}
+19:18:16 [INFO] rest: Received POST body {"latitude":51.5392431,"longitude":-0.1249378,"accuracy":10,"altitude":0,"timestamp":1478887897305,"speed":0,"heading":0,"user":"marbu"}
+19:18:46 [INFO] rest: Received POST body {"latitude":51.5391867,"longitude":-0.124993,"accuracy":10,"altitude":0,"timestamp":1478887928216,"speed":0,"heading":0,"user":"marbu"}
+19:19:7 [INFO] rest: Received POST body {"latitude":51.5391121,"longitude":-0.1249881,"accuracy":10,"altitude":0,"timestamp":1478887948413,"speed":0,"heading":0,"user":"marbu"}
+19:19:27 [INFO] rest: Received POST body {"latitude":51.5390279,"longitude":-0.1250034,"accuracy":10,"altitude":0,"timestamp":1478887968601,"speed":0,"heading":0,"user":"marbu"}
+19:19:55 [INFO] rest: Received POST body {"latitude":51.5379488,"longitude":-0.1255398,"accuracy":12.03499984741211,"altitude":0,"timestamp":1478887996576,"speed":0,"heading":0,"user":"marbu"}
+19:20:24 [INFO] rest: Received POST body {"latitude":51.5378738,"longitude":-0.1255395,"accuracy":10,"altitude":0,"timestamp":1478888025741,"speed":0,"heading":0,"user":"marbu"}
+19:20:46 [INFO] rest: Received POST body {"latitude":51.5378013,"longitude":-0.1255284,"accuracy":10,"altitude":0,"timestamp":1478888047411,"speed":0,"heading":0,"user":"marbu"}
+19:20:54 [INFO] rest: Received POST body {"latitude":51.5377326,"longitude":-0.1255243,"accuracy":10,"altitude":0,"timestamp":1478888055889,"speed":0,"heading":0,"user":"marbu"}
+19:21:5 [INFO] rest: Received POST body {"latitude":51.537638,"longitude":-0.1255202,"accuracy":10,"altitude":0,"timestamp":1478888066538,"speed":0,"heading":0,"user":"marbu"}
+19:21:15 [INFO] rest: Received POST body {"latitude":51.5375459,"longitude":-0.1255265,"accuracy":10,"altitude":0,"timestamp":1478888076666,"speed":0,"heading":0,"user":"marbu"}
+19:21:46 [INFO] rest: Received POST body {"latitude":51.5364764,"longitude":-0.1256405,"accuracy":11.545999526977539,"altitude":0,"timestamp":1478888107282,"speed":0,"heading":0,"user":"marbu"}
+19:22:6 [INFO] rest: Received POST body {"latitude":51.5363924,"longitude":-0.1256781,"accuracy":10,"altitude":0,"timestamp":1478888127304,"speed":0,"heading":0,"user":"marbu"}
+19:22:16 [INFO] rest: Received POST body {"latitude":51.5363239,"longitude":-0.125693,"accuracy":10,"altitude":0,"timestamp":1478888137333,"speed":0,"heading":0,"user":"marbu"}
+19:22:26 [INFO] rest: Received POST body {"latitude":51.5362511,"longitude":-0.1257033,"accuracy":10,"altitude":0,"timestamp":1478888147501,"speed":0,"heading":0,"user":"marbu"}
+19:22:36 [INFO] rest: Received POST body {"latitude":51.5361814,"longitude":-0.1257046,"accuracy":10,"altitude":0,"timestamp":1478888158073,"speed":0,"heading":0,"user":"marbu"}
+19:22:46 [INFO] rest: Received POST body {"latitude":51.5361106,"longitude":-0.1257006,"accuracy":10,"altitude":0,"timestamp":1478888168135,"speed":0,"heading":0,"user":"marbu"}
+19:22:57 [INFO] rest: Received POST body {"latitude":51.536035,"longitude":-0.1257018,"accuracy":10,"altitude":0,"timestamp":1478888178375,"speed":0,"heading":0,"user":"marbu"}
+19:23:7 [INFO] rest: Received POST body {"latitude":51.5359699,"longitude":-0.1256984,"accuracy":10,"altitude":0,"timestamp":1478888189010,"speed":0,"heading":0,"user":"marbu"}
+19:23:35 [INFO] rest: Received POST body {"latitude":51.5351767,"longitude":-0.1253676,"accuracy":12.352999687194824,"altitude":0,"timestamp":1478888217138,"speed":0,"heading":0,"user":"marbu"}
+19:23:54 [INFO] rest: Received POST body {"latitude":51.5351299,"longitude":-0.1253807,"accuracy":10.269000053405762,"altitude":0,"timestamp":1478888235376,"speed":0,"heading":0,"user":"marbu"}
+19:24:2 [INFO] rest: Received POST body {"latitude":51.5350419,"longitude":-0.1253189,"accuracy":10,"altitude":0,"timestamp":1478888243685,"speed":0,"heading":0,"user":"marbu"}
+19:24:20 [INFO] rest: Received POST body {"latitude":51.5349688,"longitude":-0.125207,"accuracy":10,"altitude":0,"timestamp":1478888262038,"speed":0,"heading":0,"user":"marbu"}
+19:24:38 [INFO] rest: Received POST body {"latitude":51.5349137,"longitude":-0.125111,"accuracy":10,"altitude":0,"timestamp":1478888279878,"speed":0,"heading":0,"user":"marbu"}
+19:24:47 [INFO] rest: Received POST body {"latitude":51.5348548,"longitude":-0.1250414,"accuracy":10,"altitude":0,"timestamp":1478888289028,"speed":0,"heading":0,"user":"marbu"}
+19:24:56 [INFO] rest: Received POST body {"latitude":51.5348134,"longitude":-0.1249836,"accuracy":10,"altitude":0,"timestamp":1478888297896,"speed":0,"heading":0,"user":"marbu"}
+19:25:24 [INFO] rest: Received POST body {"latitude":51.5347626,"longitude":-0.1249454,"accuracy":10,"altitude":0,"timestamp":1478888325332,"speed":0,"heading":0,"user":"marbu"}
+19:25:51 [INFO] rest: Received POST body {"latitude":51.5335203,"longitude":-0.1246765,"accuracy":11.784000396728516,"altitude":0,"timestamp":1478888352029,"speed":0,"heading":0,"user":"marbu"}
+19:26:0 [INFO] rest: Received POST body {"latitude":51.533407,"longitude":-0.124691,"accuracy":10.251999855041504,"altitude":0,"timestamp":1478888361518,"speed":0,"heading":0,"user":"marbu"}
+19:26:9 [INFO] rest: Received POST body {"latitude":51.5333422,"longitude":-0.1247162,"accuracy":10,"altitude":0,"timestamp":1478888370407,"speed":0,"heading":0,"user":"marbu"}
+19:26:18 [INFO] rest: Received POST body {"latitude":51.5332503,"longitude":-0.1247353,"accuracy":10,"altitude":0,"timestamp":1478888379473,"speed":0,"heading":0,"user":"marbu"}
+19:26:26 [INFO] rest: Received POST body {"latitude":51.5331853,"longitude":-0.1247488,"accuracy":10,"altitude":0,"timestamp":1478888388188,"speed":0,"heading":0,"user":"marbu"}
+19:26:36 [INFO] rest: Received POST body {"latitude":51.533137,"longitude":-0.1247588,"accuracy":10,"altitude":0,"timestamp":1478888397631,"speed":0,"heading":0,"user":"marbu"}
+19:26:54 [INFO] rest: Received POST body {"latitude":51.533063,"longitude":-0.124791,"accuracy":10,"altitude":0,"timestamp":1478888415464,"speed":0,"heading":0,"user":"marbu"}
+19:27:3 [INFO] rest: Received POST body {"latitude":51.533007,"longitude":-0.124817,"accuracy":10,"altitude":0,"timestamp":1478888424719,"speed":0,"heading":0,"user":"marbu"}
+19:27:12 [INFO] rest: Received POST body {"latitude":51.5329423,"longitude":-0.1248461,"accuracy":10,"altitude":0,"timestamp":1478888433405,"speed":0,"heading":0,"user":"marbu"}
+19:27:21 [INFO] rest: Received POST body {"latitude":51.532894,"longitude":-0.1248315,"accuracy":10,"altitude":0,"timestamp":1478888442747,"speed":0,"heading":0,"user":"marbu"}
+19:27:30 [INFO] rest: Received POST body {"latitude":51.5328417,"longitude":-0.1248439,"accuracy":10,"altitude":0,"timestamp":1478888451236,"speed":0,"heading":0,"user":"marbu"}
+19:27:48 [INFO] rest: Received POST body {"latitude":51.5327671,"longitude":-0.1247874,"accuracy":10,"altitude":0,"timestamp":1478888469748,"speed":0,"heading":0,"user":"marbu"}
+19:28:10 [INFO] rest: Received POST body {"latitude":51.5321511,"longitude":-0.1240887,"accuracy":22.07699966430664,"altitude":0,"timestamp":1478888491271,"speed":0,"heading":0,"user":"marbu"}
+19:28:19 [INFO] rest: Received POST body {"latitude":51.532366,"longitude":-0.1240897,"accuracy":15.243000030517578,"altitude":0,"timestamp":1478888500467,"speed":0,"heading":0,"user":"marbu"}
+19:28:28 [INFO] rest: Received POST body {"latitude":51.5324888,"longitude":-0.1241147,"accuracy":13.27400016784668,"altitude":0,"timestamp":1478888509375,"speed":0,"heading":0,"user":"marbu"}
+19:28:46 [INFO] rest: Received POST body {"latitude":51.5332858,"longitude":-0.1239523,"accuracy":72,"altitude":0,"timestamp":1478888527660,"speed":0,"heading":0,"user":"marbu"}
+19:28:55 [INFO] rest: Received POST body {"latitude":51.5336976,"longitude":-0.1237197,"accuracy":40.5,"altitude":0,"timestamp":1478888536401,"speed":0,"heading":0,"user":"marbu"}
+19:29:4 [INFO] rest: Received POST body {"latitude":51.5332415,"longitude":-0.1239585,"accuracy":76.5,"altitude":0,"timestamp":1478888545586,"speed":0,"heading":0,"user":"marbu"}
+19:29:23 [INFO] rest: Received POST body {"latitude":51.5338996,"longitude":-0.123343,"accuracy":186,"altitude":0,"timestamp":1478888563683,"speed":0,"heading":0,"user":"marbu"}
+19:29:43 [INFO] rest: Received POST body {"latitude":51.534452,"longitude":-0.1235473,"accuracy":50,"altitude":0,"timestamp":1478888583769,"speed":0,"heading":0,"user":"marbu"}
+19:30:47 [INFO] rest: Received POST body {"latitude":51.5331793,"longitude":-0.1228521,"accuracy":800,"altitude":0,"timestamp":1478888622186,"speed":0,"heading":0,"user":"marbu"}
+19:30:53 [INFO] rest: Received POST body {"latitude":51.5396792,"longitude":-0.1236547,"accuracy":90.67400360107422,"altitude":0,"timestamp":1478888654347,"speed":0,"heading":0,"user":"marbu"}
+19:32:23 [INFO] rest: Received POST body {"latitude":51.5400802,"longitude":-0.1232503,"accuracy":600,"altitude":0,"timestamp":1478888695654,"speed":0,"heading":0,"user":"marbu"}
+19:32:25 [INFO] rest: Received POST body {"latitude":51.5485996,"longitude":-0.1186718,"accuracy":44.08700180053711,"altitude":0,"timestamp":1478888727984,"speed":0,"heading":0,"user":"marbu"}
+19:32:53 [INFO] rest: Received POST body {"latitude":51.5559698,"longitude":-0.1105114,"accuracy":43.5,"altitude":0,"timestamp":1478888771815,"speed":0,"heading":0,"user":"marbu"}
+19:33:53 [INFO] rest: Received POST body {"latitude":51.5646904,"longitude":-0.1066186,"accuracy":36,"altitude":0,"timestamp":1478888834072,"speed":0,"heading":0,"user":"marbu"}
+19:34:46 [INFO] rest: Received POST body {"latitude":51.5646877,"longitude":-0.1066207,"accuracy":37.5,"altitude":0,"timestamp":1478888885932,"speed":0,"heading":0,"user":"marbu"}
+19:38:5 [INFO] rest: Received POST body {"latitude":51.5642158,"longitude":-0.106655,"accuracy":50,"altitude":0,"timestamp":1478889084819,"speed":0,"heading":0,"user":"marbu"}
+19:38:30 [INFO] rest: Received POST body {"latitude":51.5644635,"longitude":-0.1058219,"accuracy":36,"altitude":0,"timestamp":1478889106439,"speed":0,"heading":0,"user":"marbu"}
+19:38:52 [INFO] rest: Received POST body {"latitude":51.5733037,"longitude":-0.1009378,"accuracy":800,"altitude":0,"timestamp":1478889129243,"speed":0,"heading":0,"user":"marbu"}
+19:39:12 [INFO] rest: Received POST body {"latitude":51.5644633,"longitude":-0.1058242,"accuracy":40.5,"altitude":0,"timestamp":1478889151385,"speed":0,"heading":0,"user":"marbu"}
+19:39:40 [INFO] rest: Received POST body {"latitude":51.5823885,"longitude":-0.1102753,"accuracy":57,"altitude":0,"timestamp":1478889180488,"speed":0,"heading":0,"user":"marbu"}
+19:40:25 [INFO] rest: Received POST body {"latitude":51.564465,"longitude":-0.1058231,"accuracy":33,"altitude":0,"timestamp":1478889224613,"speed":0,"heading":0,"user":"marbu"}
+19:43:43 [INFO] rest: Received POST body {"latitude":51.6471034,"longitude":-0.1716406,"accuracy":51,"altitude":0,"timestamp":1478889421100,"speed":0,"heading":0,"user":"marbu"}
+19:44:46 [INFO] rest: Received POST body {"latitude":51.6541617,"longitude":-0.1706845,"accuracy":1000,"altitude":0,"timestamp":1478889482094,"speed":0,"heading":0,"user":"marbu"}
+19:44:58 [INFO] rest: Received POST body {"latitude":51.6772155,"longitude":-0.1674958,"accuracy":1100,"altitude":0,"timestamp":1478889492212,"speed":0,"heading":0,"user":"marbu"}
+19:46:14 [INFO] rest: Received POST body {"latitude":51.5644633,"longitude":-0.1058239,"accuracy":36,"altitude":0,"timestamp":1478889545088,"speed":0,"heading":0,"user":"marbu"}
+19:58:6 [INFO] rest: Received POST body {"latitude":51.5644629,"longitude":-0.1058236,"accuracy":6416.18603515625,"altitude":0,"timestamp":1478890277360,"speed":0,"heading":0,"user":"marbu"}
+19:58:36 [INFO] rest: Received POST body {"latitude":51.7671405,"longitude":-0.2161158,"accuracy":41.21500015258789,"altitude":0,"timestamp":1478890316252,"speed":0,"heading":0,"user":"marbu"}
+19:59:19 [INFO] rest: Received POST body {"latitude":51.7708307,"longitude":-0.2159275,"accuracy":51,"altitude":0,"timestamp":1478890356022,"speed":0,"heading":0,"user":"marbu"}
+19:59:58 [INFO] rest: Received POST body {"latitude":51.7872062,"longitude":-0.2253941,"accuracy":1200,"altitude":0,"timestamp":1478890395987,"speed":0,"heading":0,"user":"marbu"}
+20:0:10 [INFO] rest: Received POST body {"latitude":51.7892163,"longitude":-0.2086775,"accuracy":1600,"altitude":0,"timestamp":1478890406693,"speed":0,"heading":0,"user":"marbu"}
+20:0:16 [INFO] rest: Received POST body {"latitude":51.7908683,"longitude":-0.2072027,"accuracy":1299.9990234375,"altitude":0,"timestamp":1478890414413,"speed":0,"heading":0,"user":"marbu"}
+20:0:57 [INFO] rest: Received POST body {"latitude":51.7994537,"longitude":-0.202804,"accuracy":899.9990234375,"altitude":0,"timestamp":1478890449403,"speed":0,"heading":0,"user":"marbu"}
+20:1:1 [INFO] rest: Received POST body {"latitude":51.7986319,"longitude":-0.2035,"accuracy":29,"altitude":0,"timestamp":1478890461102,"speed":0,"heading":0,"user":"marbu"}
+20:1:18 [INFO] rest: Received POST body {"latitude":51.7987731,"longitude":-0.2034104,"accuracy":49.5,"altitude":0,"timestamp":1478890479709,"speed":0,"heading":0,"user":"marbu"}
+20:1:38 [INFO] rest: Received POST body {"latitude":51.8004956,"longitude":-0.2029755,"accuracy":64.5,"altitude":0,"timestamp":1478890499639,"speed":0,"heading":0,"user":"marbu"}
+20:1:56 [INFO] rest: Received POST body {"latitude":51.8008135,"longitude":-0.2042554,"accuracy":40.5,"altitude":0,"timestamp":1478890517771,"speed":0,"heading":0,"user":"marbu"}
+20:2:5 [INFO] rest: Received POST body {"latitude":51.8008281,"longitude":-0.2035159,"accuracy":40.5,"altitude":0,"timestamp":1478890526945,"speed":0,"heading":0,"user":"marbu"}
+20:2:15 [INFO] rest: Received POST body {"latitude":51.8008949,"longitude":-0.2041626,"accuracy":50,"altitude":0,"timestamp":1478890535899,"speed":0,"heading":0,"user":"marbu"}
+20:2:53 [INFO] rest: Received POST body {"latitude":51.8008955,"longitude":-0.2037907,"accuracy":50,"altitude":0,"timestamp":1478890574891,"speed":0,"heading":0,"user":"marbu"}
+20:3:3 [INFO] rest: Received POST body {"latitude":51.8008539,"longitude":-0.2040229,"accuracy":50,"altitude":0,"timestamp":1478890584051,"speed":0,"heading":0,"user":"marbu"}
+20:3:30 [INFO] rest: Received POST body {"latitude":51.8007307,"longitude":-0.2036965,"accuracy":50,"altitude":0,"timestamp":1478890611133,"speed":0,"heading":0,"user":"marbu"}
+20:3:39 [INFO] rest: Received POST body {"latitude":51.8006489,"longitude":-0.2033241,"accuracy":50,"altitude":0,"timestamp":1478890620231,"speed":0,"heading":0,"user":"marbu"}
+20:3:57 [INFO] rest: Received POST body {"latitude":51.7993309,"longitude":-0.2022918,"accuracy":50,"altitude":0,"timestamp":1478890638426,"speed":0,"heading":0,"user":"marbu"}
+20:4:6 [INFO] rest: Received POST body {"latitude":51.800317,"longitude":-0.2044373,"accuracy":50,"altitude":0,"timestamp":1478890648194,"speed":0,"heading":0,"user":"marbu"}
+20:4:16 [INFO] rest: Received POST body {"latitude":51.8005681,"longitude":-0.2023008,"accuracy":50,"altitude":0,"timestamp":1478890657296,"speed":0,"heading":0,"user":"marbu"}
+20:4:25 [INFO] rest: Received POST body {"latitude":51.799742,"longitude":-0.2030385,"accuracy":26.41900062561035,"altitude":0,"timestamp":1478890666407,"speed":0,"heading":0,"user":"marbu"}
+20:4:45 [INFO] rest: Received POST body {"latitude":51.8002941,"longitude":-0.2028975,"accuracy":71.01300048828125,"altitude":0,"timestamp":1478890685968,"speed":0,"heading":0,"user":"marbu"}
+20:5:5 [INFO] rest: Received POST body {"latitude":51.8004662,"longitude":-0.2029318,"accuracy":34.5,"altitude":0,"timestamp":1478890706006,"speed":0,"heading":0,"user":"marbu"}
+20:6:10 [INFO] rest: Received POST body {"latitude":51.7994537,"longitude":-0.202804,"accuracy":899.9990234375,"altitude":0,"timestamp":1478890769257,"speed":0,"heading":0,"user":"marbu"}
+20:6:19 [INFO] rest: Received POST body {"latitude":51.8004102,"longitude":-0.1979538,"accuracy":37.5,"altitude":0,"timestamp":1478890780416,"speed":0,"heading":0,"user":"marbu"}
+20:6:39 [INFO] rest: Received POST body {"latitude":51.8003605,"longitude":-0.1987757,"accuracy":36,"altitude":0,"timestamp":1478890799393,"speed":0,"heading":0,"user":"marbu"}
+20:6:48 [INFO] rest: Received POST body {"latitude":51.8004528,"longitude":-0.1989258,"accuracy":43.5,"altitude":0,"timestamp":1478890809391,"speed":0,"heading":0,"user":"marbu"}
+20:6:57 [INFO] rest: Received POST body {"latitude":51.8011104,"longitude":-0.1987254,"accuracy":50,"altitude":0,"timestamp":1478890818410,"speed":0,"heading":0,"user":"marbu"}
+20:7:6 [INFO] rest: Received POST body {"latitude":51.8003259,"longitude":-0.1992311,"accuracy":50,"altitude":0,"timestamp":1478890827527,"speed":0,"heading":0,"user":"marbu"}
+20:7:15 [INFO] rest: Received POST body {"latitude":51.8001609,"longitude":-0.19923,"accuracy":50,"altitude":0,"timestamp":1478890836488,"speed":0,"heading":0,"user":"marbu"}
+20:7:24 [INFO] rest: Received POST body {"latitude":51.8003259,"longitude":-0.1992311,"accuracy":18.679000854492188,"altitude":0,"timestamp":1478890845945,"speed":0,"heading":0,"user":"marbu"}
+20:7:52 [INFO] rest: Received POST body {"latitude":51.8001623,"longitude":-0.1983933,"accuracy":18.621999740600586,"altitude":0,"timestamp":1478890872742,"speed":0,"heading":0,"user":"marbu"}
+20:8:18 [INFO] rest: Received POST body {"latitude":51.8000803,"longitude":-0.1981138,"accuracy":18.9950008392334,"altitude":0,"timestamp":1478890899696,"speed":0,"heading":0,"user":"marbu"}
+20:8:36 [INFO] rest: Received POST body {"latitude":51.7999988,"longitude":-0.1975555,"accuracy":20.67799949645996,"altitude":0,"timestamp":1478890917841,"speed":0,"heading":0,"user":"marbu"}
+20:9:7 [INFO] rest: Received POST body {"latitude":51.8000808,"longitude":-0.197835,"accuracy":22.31599998474121,"altitude":0,"timestamp":1478890948737,"speed":0,"heading":0,"user":"marbu"}
+20:9:17 [INFO] rest: Received POST body {"latitude":51.8000665,"longitude":-0.1973158,"accuracy":43.59199905395508,"altitude":0,"timestamp":1478890958760,"speed":0,"heading":0,"user":"marbu"}
+20:9:37 [INFO] rest: Received POST body {"latitude":51.7999165,"longitude":-0.1968433,"accuracy":67.5,"altitude":0,"timestamp":1478890979073,"speed":0,"heading":0,"user":"marbu"}
+20:9:59 [INFO] rest: Received POST body {"latitude":51.7995887,"longitude":-0.1961582,"accuracy":50,"altitude":0,"timestamp":1478891000715,"speed":0,"heading":0,"user":"marbu"}
+20:10:9 [INFO] rest: Received POST body {"latitude":51.7995477,"longitude":-0.1960185,"accuracy":50,"altitude":0,"timestamp":1478891009715,"speed":0,"heading":0,"user":"marbu"}
+20:10:17 [INFO] rest: Received POST body {"latitude":51.799384,"longitude":-0.1952737,"accuracy":21.378999710083008,"altitude":0,"timestamp":1478891018773,"speed":0,"heading":0,"user":"marbu"}
+20:10:35 [INFO] rest: Received POST body {"latitude":51.7992193,"longitude":-0.1950867,"accuracy":20.299999237060547,"altitude":0,"timestamp":1478891036910,"speed":0,"heading":0,"user":"marbu"}
+20:10:44 [INFO] rest: Received POST body {"latitude":51.7990543,"longitude":-0.1950855,"accuracy":21.207000732421875,"altitude":0,"timestamp":1478891046106,"speed":0,"heading":0,"user":"marbu"}
+20:10:53 [INFO] rest: Received POST body {"latitude":51.7988488,"longitude":-0.1946658,"accuracy":19.451000213623047,"altitude":0,"timestamp":1478891055039,"speed":0,"heading":0,"user":"marbu"}
+20:11:2 [INFO] rest: Received POST body {"latitude":51.7988491,"longitude":-0.1944799,"accuracy":18.5,"altitude":0,"timestamp":1478891064140,"speed":0,"heading":0,"user":"marbu"}
+20:11:12 [INFO] rest: Received POST body {"latitude":51.7987668,"longitude":-0.1943864,"accuracy":18.503999710083008,"altitude":0,"timestamp":1478891073261,"speed":0,"heading":0,"user":"marbu"}
+20:11:39 [INFO] rest: Received POST body {"latitude":51.7986846,"longitude":-0.1941999,"accuracy":18.639999389648438,"altitude":0,"timestamp":1478891100227,"speed":0,"heading":0,"user":"marbu"}
+20:11:48 [INFO] rest: Received POST body {"latitude":51.7986022,"longitude":-0.1941993,"accuracy":19.374000549316406,"altitude":0,"timestamp":1478891109086,"speed":0,"heading":0,"user":"marbu"}
+20:12:6 [INFO] rest: Received POST body {"latitude":51.7981899,"longitude":-0.1941035,"accuracy":18.986000061035156,"altitude":0,"timestamp":1478891127274,"speed":0,"heading":0,"user":"marbu"}
+20:12:33 [INFO] rest: Received POST body {"latitude":51.7981077,"longitude":-0.1939171,"accuracy":18.659000396728516,"altitude":0,"timestamp":1478891154256,"speed":0,"heading":0,"user":"marbu"}
+20:12:42 [INFO] rest: Received POST body {"latitude":51.7978903,"longitude":-0.1944344,"accuracy":70.78099822998047,"altitude":0,"timestamp":1478891163249,"speed":0,"heading":0,"user":"marbu"}
+20:12:51 [INFO] rest: Received POST body {"latitude":51.7976497,"longitude":-0.1944204,"accuracy":92.74099731445312,"altitude":0,"timestamp":1478891172290,"speed":0,"heading":0,"user":"marbu"}
+20:13:0 [INFO] rest: Received POST body {"latitude":51.798403,"longitude":-0.19429,"accuracy":57.016998291015625,"altitude":0,"timestamp":1478891181230,"speed":0,"heading":0,"user":"marbu"}
+20:13:9 [INFO] rest: Received POST body {"latitude":51.7972518,"longitude":-0.1940015,"accuracy":129.6529998779297,"altitude":0,"timestamp":1478891190427,"speed":0,"heading":0,"user":"marbu"}
+20:13:18 [INFO] rest: Received POST body {"latitude":51.7970359,"longitude":-0.1936308,"accuracy":18.78700065612793,"altitude":0,"timestamp":1478891199491,"speed":0,"heading":0,"user":"marbu"}
+20:13:27 [INFO] rest: Received POST body {"latitude":51.7969532,"longitude":-0.1938161,"accuracy":19.851999282836914,"altitude":0,"timestamp":1478891208511,"speed":0,"heading":0,"user":"marbu"}
+20:13:45 [INFO] rest: Received POST body {"latitude":51.7968708,"longitude":-0.1937226,"accuracy":18.840999603271484,"altitude":0,"timestamp":1478891226455,"speed":0,"heading":0,"user":"marbu"}
+20:14:4 [INFO] rest: Received POST body {"latitude":51.7967056,"longitude":-0.1939073,"accuracy":21.812000274658203,"altitude":0,"timestamp":1478891244598,"speed":0,"heading":0,"user":"marbu"}
+20:14:12 [INFO] rest: Received POST body {"latitude":51.7964994,"longitude":-0.1938594,"accuracy":20.413000106811523,"altitude":0,"timestamp":1478891253547,"speed":0,"heading":0,"user":"marbu"}
+20:14:21 [INFO] rest: Received POST body {"latitude":51.7961695,"longitude":-0.1938571,"accuracy":21.26099967956543,"altitude":0,"timestamp":1478891262605,"speed":0,"heading":0,"user":"marbu"}
+20:14:30 [INFO] rest: Received POST body {"latitude":51.7961287,"longitude":-0.1936245,"accuracy":22.18199920654297,"altitude":0,"timestamp":1478891271491,"speed":0,"heading":0,"user":"marbu"}
+20:14:39 [INFO] rest: Received POST body {"latitude":51.7960462,"longitude":-0.1936239,"accuracy":19.708999633789062,"altitude":0,"timestamp":1478891281065,"speed":0,"heading":0,"user":"marbu"}
+20:14:48 [INFO] rest: Received POST body {"latitude":51.7958812,"longitude":-0.1936227,"accuracy":20.07200050354004,"altitude":0,"timestamp":1478891290017,"speed":0,"heading":0,"user":"marbu"}
+20:14:59 [INFO] rest: Received POST body {"latitude":51.7958402,"longitude":-0.193483,"accuracy":21.583999633789062,"altitude":0,"timestamp":1478891300374,"speed":0,"heading":0,"user":"marbu"}
+20:15:10 [INFO] rest: Received POST body {"latitude":51.795593,"longitude":-0.1933884,"accuracy":18.63599967956543,"altitude":0,"timestamp":1478891310655,"speed":0,"heading":0,"user":"marbu"}
+20:15:19 [INFO] rest: Received POST body {"latitude":51.7955519,"longitude":-0.1932487,"accuracy":18.82200050354004,"altitude":0,"timestamp":1478891320013,"speed":0,"heading":0,"user":"marbu"}
+20:15:28 [INFO] rest: Received POST body {"latitude":51.795593,"longitude":-0.1933884,"accuracy":18.638999938964844,"altitude":0,"timestamp":1478891329384,"speed":0,"heading":0,"user":"marbu"}
+20:15:38 [INFO] rest: Received POST body {"latitude":51.7955518,"longitude":-0.1933416,"accuracy":18.658000946044922,"altitude":0,"timestamp":1478891338604,"speed":0,"heading":0,"user":"marbu"}
+20:15:53 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.768999099731445,"altitude":0,"timestamp":1478891354354,"speed":0,"heading":0,"user":"marbu"}
+20:17:5 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":21.52199935913086,"altitude":0,"timestamp":1478891424977,"speed":0,"heading":0,"user":"marbu"}
+20:17:18 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.472000122070312,"altitude":0,"timestamp":1478891438886,"speed":0,"heading":0,"user":"marbu"}
+20:37:44 [INFO] rest: Received POST body {"latitude":51.5648322,"longitude":-0.1067034,"accuracy":20,"altitude":0,"timestamp":1478892646905,"speed":0,"heading":0,"user":"rephus"}
+20:37:44 [INFO] rest: Received POST body {"latitude":51.5647911,"longitude":-0.1066572,"accuracy":20,"altitude":0,"timestamp":1478892662269,"speed":0,"heading":0,"user":"rephus"}
+20:38:13 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+20:39:53 [INFO] rest: Received POST body {"latitude":51.5739912,"longitude":-0.1051741,"accuracy":40.5,"altitude":0,"timestamp":1478892782531,"speed":0,"heading":0,"user":"rephus"}
+20:40:40 [INFO] rest: Received POST body {"latitude":51.57717057,"longitude":-0.10542978,"accuracy":33,"altitude":129,"timestamp":1478892809237,"speed":0.9300000071525574,"heading":96,"user":"rephus"}
+20:41:20 [INFO] rest: Received POST body {"latitude":51.58204591,"longitude":-0.1083967,"accuracy":11,"altitude":110,"timestamp":1478892879000,"speed":19.68000030517578,"heading":326.6000061035156,"user":"rephus"}
+20:41:33 [INFO] rest: Received POST body {"latitude":51.58421721,"longitude":-0.11110423,"accuracy":26,"altitude":121,"timestamp":1478892894000,"speed":14.640000343322754,"heading":329.20001220703125,"user":"rephus"}
+20:41:42 [INFO] rest: Received POST body {"latitude":51.58489633,"longitude":-0.11132339,"accuracy":19,"altitude":138,"timestamp":1478892903000,"speed":10.420000076293945,"heading":340.8999938964844,"user":"rephus"}
+20:41:50 [INFO] rest: Received POST body {"latitude":51.5854232,"longitude":-0.11158204,"accuracy":14,"altitude":131,"timestamp":1478892911000,"speed":8.420000076293945,"heading":343.29998779296875,"user":"rephus"}
+20:41:59 [INFO] rest: Received POST body {"latitude":51.58583245,"longitude":-0.11152903,"accuracy":11,"altitude":111,"timestamp":1478892920000,"speed":4.190000057220459,"heading":346.29998779296875,"user":"rephus"}
+20:43:21 [INFO] rest: Received POST body {"latitude":51.59048273,"longitude":-0.1144006,"accuracy":10,"altitude":111,"timestamp":1478892999000,"speed":19.479999542236328,"heading":335,"user":"rephus"}
+20:43:32 [INFO] rest: Received POST body {"latitude":51.59249452,"longitude":-0.11630999,"accuracy":7,"altitude":107,"timestamp":1478893013000,"speed":18.5,"heading":332.79998779296875,"user":"rephus"}
+20:43:42 [INFO] rest: Received POST body {"latitude":51.59391872,"longitude":-0.11707897,"accuracy":7,"altitude":97,"timestamp":1478893023000,"speed":14.069999694824219,"heading":333.8999938964844,"user":"rephus"}
+20:43:50 [INFO] rest: Received POST body {"latitude":51.59474174,"longitude":-0.11785616,"accuracy":9,"altitude":100,"timestamp":1478893031000,"speed":13.34000015258789,"heading":333.29998779296875,"user":"rephus"}
+20:44:1 [INFO] rest: Received POST body {"latitude":51.59581007,"longitude":-0.11870443,"accuracy":12,"altitude":99,"timestamp":1478893042000,"speed":12.109999656677246,"heading":334,"user":"rephus"}
+20:44:9 [INFO] rest: Received POST body {"latitude":51.59654796,"longitude":-0.11932163,"accuracy":13,"altitude":103,"timestamp":1478893050000,"speed":10.729999542236328,"heading":334.20001220703125,"user":"rephus"}
+20:44:18 [INFO] rest: Received POST body {"latitude":51.59723377,"longitude":-0.11987694,"accuracy":15,"altitude":107,"timestamp":1478893059000,"speed":9.109999656677246,"heading":337.8999938964844,"user":"rephus"}
+20:44:29 [INFO] rest: Received POST body {"latitude":51.59786351,"longitude":-0.12034927,"accuracy":14,"altitude":108,"timestamp":1478893069000,"speed":6.190000057220459,"heading":328.20001220703125,"user":"rephus"}
+20:44:37 [INFO] rest: Received POST body {"latitude":51.59829694,"longitude":-0.12083308,"accuracy":11,"altitude":113,"timestamp":1478893078000,"speed":4.710000038146973,"heading":325.20001220703125,"user":"rephus"}
+20:44:49 [INFO] rest: Received POST body {"latitude":51.59846233,"longitude":-0.12102927,"accuracy":17,"altitude":113,"timestamp":1478893086000,"speed":1.4800000190734863,"heading":298.6000061035156,"user":"rephus"}
+20:44:54 [INFO] rest: Received POST body {"latitude":51.59842017,"longitude":-0.12086194,"accuracy":16,"altitude":110,"timestamp":1478893095000,"speed":0,"heading":0,"user":"rephus"}
+20:45:7 [INFO] rest: Received POST body {"latitude":51.59839703,"longitude":-0.12083193,"accuracy":9,"altitude":119,"timestamp":1478893108000,"speed":0,"heading":0,"user":"rephus"}
+20:45:25 [INFO] rest: Received POST body {"latitude":51.59849657,"longitude":-0.12080606,"accuracy":10,"altitude":108,"timestamp":1478893126000,"speed":5.699999809265137,"heading":328.8999938964844,"user":"rephus"}
+20:45:36 [INFO] rest: Received POST body {"latitude":51.59912891,"longitude":-0.12159513,"accuracy":11,"altitude":109,"timestamp":1478893135000,"speed":11.399999618530273,"heading":323.70001220703125,"user":"rephus"}
+20:45:43 [INFO] rest: Received POST body {"latitude":51.59978925,"longitude":-0.12289455,"accuracy":8,"altitude":88,"timestamp":1478893144000,"speed":15.949999809265137,"heading":320.5,"user":"rephus"}
+20:45:53 [INFO] rest: Received POST body {"latitude":51.60087312,"longitude":-0.12439361,"accuracy":11,"altitude":71,"timestamp":1478893153000,"speed":15.470000267028809,"heading":318.79998779296875,"user":"rephus"}
+20:46:4 [INFO] rest: Received POST body {"latitude":51.60184773,"longitude":-0.12568082,"accuracy":14,"altitude":80,"timestamp":1478893162000,"speed":16.299999237060547,"heading":319.79998779296875,"user":"rephus"}
+20:46:13 [INFO] rest: Received POST body {"latitude":51.6027543,"longitude":-0.12736335,"accuracy":12,"altitude":71,"timestamp":1478893171000,"speed":17.1299991607666,"heading":313.70001220703125,"user":"rephus"}
+20:47:14 [INFO] rest: Received POST body {"latitude":51.60380493,"longitude":-0.12905904,"accuracy":14,"altitude":75,"timestamp":1478893180000,"speed":18.670000076293945,"heading":315.1000061035156,"user":"rephus"}
+20:47:24 [INFO] rest: Received POST body {"latitude":51.5998905,"longitude":-0.1504318,"accuracy":899.9990234375,"altitude":0,"timestamp":1478893236456,"speed":0,"heading":0,"user":"rephus"}
+20:47:41 [INFO] rest: Received POST body {"latitude":51.6097745,"longitude":-0.1377194,"accuracy":229.5,"altitude":0,"timestamp":1478893258562,"speed":0,"heading":0,"user":"rephus"}
+20:48:34 [INFO] rest: Received POST body {"latitude":51.61385419,"longitude":-0.14308877,"accuracy":13,"altitude":82,"timestamp":1478893315000,"speed":0.9900000095367432,"heading":332.70001220703125,"user":"rephus"}
+20:48:51 [INFO] rest: Received POST body {"latitude":51.61478997,"longitude":-0.14369286,"accuracy":18,"altitude":94,"timestamp":1478893332000,"speed":10.210000038146973,"heading":343.5,"user":"rephus"}
+20:48:57 [INFO] rest: Received POST body {"latitude":51.61536675,"longitude":-0.1441776,"accuracy":10,"altitude":95,"timestamp":1478893338000,"speed":12.680000305175781,"heading":330.1000061035156,"user":"rephus"}
+20:49:9 [INFO] rest: Received POST body {"latitude":51.61659863,"longitude":-0.14547717,"accuracy":9,"altitude":110,"timestamp":1478893348000,"speed":15.869999885559082,"heading":328.8999938964844,"user":"rephus"}
+20:49:27 [INFO] rest: Received POST body {"latitude":51.61934119,"longitude":-0.14809029,"accuracy":18,"altitude":78,"timestamp":1478893367000,"speed":18.770000457763672,"heading":329.20001220703125,"user":"rephus"}
+20:49:34 [INFO] rest: Received POST body {"latitude":51.62052801,"longitude":-0.14923822,"accuracy":17,"altitude":81,"timestamp":1478893375000,"speed":19.690000534057617,"heading":329.1000061035156,"user":"rephus"}
+20:49:39 [INFO] rest: Received POST body {"latitude":51.61773005,"longitude":-0.14670358,"accuracy":17,"altitude":102,"timestamp":1478893357000,"speed":17.389999389648438,"heading":324.20001220703125,"user":"rephus"}
+20:49:44 [INFO] rest: Received POST body {"latitude":51.62201087,"longitude":-0.15087959,"accuracy":14,"altitude":98,"timestamp":1478893385000,"speed":20.670000076293945,"heading":326.6000061035156,"user":"rephus"}
+20:49:52 [INFO] rest: Received POST body {"latitude":51.62327766,"longitude":-0.15202915,"accuracy":12,"altitude":88,"timestamp":1478893393000,"speed":21.329999923706055,"heading":327.29998779296875,"user":"rephus"}
+20:50:1 [INFO] rest: Received POST body {"latitude":51.62476611,"longitude":-0.15347154,"accuracy":13,"altitude":86,"timestamp":1478893402000,"speed":21.809999465942383,"heading":328.6000061035156,"user":"rephus"}
+20:51:45 [INFO] rest: Received POST body {"latitude":51.6373807,"longitude":-0.1657789,"accuracy":50,"altitude":0,"timestamp":1478893503124,"speed":0,"heading":0,"user":"rephus"}
+20:52:6 [INFO] rest: Received POST body {"latitude":51.63757032,"longitude":-0.16661778,"accuracy":17,"altitude":73,"timestamp":1478893527000,"speed":1.090000033378601,"heading":8.800000190734863,"user":"rephus"}
+20:52:26 [INFO] rest: Received POST body {"latitude":51.6375119,"longitude":-0.16647371,"accuracy":20,"altitude":83,"timestamp":1478893543000,"speed":0,"heading":0,"user":"rephus"}
+20:52:31 [INFO] rest: Received POST body {"latitude":51.63762336,"longitude":-0.16655055,"accuracy":20,"altitude":93,"timestamp":1478893552000,"speed":0,"heading":0,"user":"rephus"}
+20:52:40 [INFO] rest: Received POST body {"latitude":51.63848275,"longitude":-0.16688473,"accuracy":10,"altitude":125,"timestamp":1478893561000,"speed":10.229999542236328,"heading":334.79998779296875,"user":"rephus"}
+20:52:48 [INFO] rest: Received POST body {"latitude":51.63937078,"longitude":-0.16757582,"accuracy":19,"altitude":119,"timestamp":1478893569000,"speed":14.050000190734863,"heading":336.3999938964844,"user":"rephus"}
+20:52:57 [INFO] rest: Received POST body {"latitude":51.64084363,"longitude":-0.16870359,"accuracy":14,"altitude":150,"timestamp":1478893578000,"speed":17.81999969482422,"heading":337.5,"user":"rephus"}
+20:53:6 [INFO] rest: Received POST body {"latitude":51.64237006,"longitude":-0.16964681,"accuracy":14,"altitude":155,"timestamp":1478893587000,"speed":19.75,"heading":339.3999938964844,"user":"rephus"}
+20:53:16 [INFO] rest: Received POST body {"latitude":51.64402246,"longitude":-0.17054839,"accuracy":25,"altitude":156,"timestamp":1478893597000,"speed":18.56999969482422,"heading":341.79998779296875,"user":"rephus"}
+20:53:25 [INFO] rest: Received POST body {"latitude":51.64512035,"longitude":-0.17135322,"accuracy":25,"altitude":138,"timestamp":1478893606000,"speed":15.550000190734863,"heading":342.70001220703125,"user":"rephus"}
+20:53:34 [INFO] rest: Received POST body {"latitude":51.64626841,"longitude":-0.17168931,"accuracy":22,"altitude":134,"timestamp":1478893615000,"speed":12.470000267028809,"heading":342.70001220703125,"user":"rephus"}
+20:53:43 [INFO] rest: Received POST body {"latitude":51.64714191,"longitude":-0.17218047,"accuracy":18,"altitude":118,"timestamp":1478893624000,"speed":9.369999885559082,"heading":339.6000061035156,"user":"rephus"}
+20:53:51 [INFO] rest: Received POST body {"latitude":51.64769199,"longitude":-0.17244695,"accuracy":5,"altitude":123,"timestamp":1478893632000,"speed":7.329999923706055,"heading":340.1000061035156,"user":"rephus"}
+20:54:0 [INFO] rest: Received POST body {"latitude":51.64813459,"longitude":-0.17267033,"accuracy":14,"altitude":123,"timestamp":1478893641000,"speed":4.590000152587891,"heading":340.70001220703125,"user":"rephus"}
+20:54:10 [INFO] rest: Received POST body {"latitude":51.64829409,"longitude":-0.1727549,"accuracy":22,"altitude":121,"timestamp":1478893651000,"speed":0.27000001072883606,"heading":29.5,"user":"rephus"}
+20:54:19 [INFO] rest: Received POST body {"latitude":51.64830233,"longitude":-0.17294723,"accuracy":16,"altitude":119,"timestamp":1478893660000,"speed":0.17000000178813934,"heading":347.70001220703125,"user":"rephus"}
+20:54:28 [INFO] rest: Received POST body {"latitude":51.64828291,"longitude":-0.17284213,"accuracy":14,"altitude":117,"timestamp":1478893669000,"speed":0.4399999976158142,"heading":292.3999938964844,"user":"rephus"}
+20:55:12 [INFO] rest: Received POST body {"latitude":51.64828597,"longitude":-0.17285402,"accuracy":15,"altitude":117,"timestamp":1478893671000,"speed":0.4399999976158142,"heading":292.3999938964844,"user":"rephus"}
+20:55:21 [INFO] rest: Received POST body {"latitude":51.65243392,"longitude":-0.1746159,"accuracy":3,"altitude":114,"timestamp":1478893722000,"speed":19.469999313354492,"heading":348.79998779296875,"user":"rephus"}
+20:55:32 [INFO] rest: Received POST body {"latitude":51.65442594,"longitude":-0.17499087,"accuracy":9,"altitude":111,"timestamp":1478893733000,"speed":21.18000030517578,"heading":354.20001220703125,"user":"rephus"}
+20:55:41 [INFO] rest: Received POST body {"latitude":51.65625467,"longitude":-0.17535398,"accuracy":8,"altitude":120,"timestamp":1478893742000,"speed":22.149999618530273,"heading":357.6000061035156,"user":"rephus"}
+20:55:51 [INFO] rest: Received POST body {"latitude":51.65811189,"longitude":-0.17538576,"accuracy":12,"altitude":126,"timestamp":1478893751000,"speed":22.889999389648438,"heading":358.8999938964844,"user":"rephus"}
+20:56:17 [INFO] rest: Received POST body {"latitude":51.66402869,"longitude":-0.17594475,"accuracy":18,"altitude":122,"timestamp":1478893778000,"speed":23.399999618530273,"heading":353.8999938964844,"user":"rephus"}
+20:59:59 [INFO] rest: Received POST body {"latitude":51.66019145,"longitude":-0.17567978,"accuracy":16,"altitude":122,"timestamp":1478893760000,"speed":24.469999313354492,"heading":355.79998779296875,"user":"rephus"}
+21:0:15 [INFO] rest: Received POST body {"latitude":51.69531686,"longitude":-0.19061337,"accuracy":18,"altitude":212,"timestamp":1478894016261,"speed":12.15999984741211,"heading":329.6000061035156,"user":"rephus"}
+21:0:27 [INFO] rest: Received POST body {"latitude":51.69653229,"longitude":-0.19199061,"accuracy":10,"altitude":177,"timestamp":1478894028000,"speed":10.4399995803833,"heading":317.6000061035156,"user":"rephus"}
+21:0:37 [INFO] rest: Received POST body {"latitude":51.69715774,"longitude":-0.19278881,"accuracy":14,"altitude":181,"timestamp":1478894038000,"speed":9.600000381469727,"heading":321.70001220703125,"user":"rephus"}
+21:0:48 [INFO] rest: Received POST body {"latitude":51.69762325,"longitude":-0.19336042,"accuracy":23,"altitude":180,"timestamp":1478894048000,"speed":4.940000057220459,"heading":331.1000061035156,"user":"rephus"}
+21:0:56 [INFO] rest: Received POST body {"latitude":51.69766339,"longitude":-0.19361839,"accuracy":13,"altitude":168,"timestamp":1478894055000,"speed":2.8499999046325684,"heading":323.5,"user":"rephus"}
+21:2:14 [INFO] rest: Received POST body {"latitude":51.703217,"longitude":-0.19818216,"accuracy":13,"altitude":174,"timestamp":1478894135000,"speed":14.770000457763672,"heading":319,"user":"rephus"}
+21:2:28 [INFO] rest: Received POST body {"latitude":51.70590923,"longitude":-0.20053856,"accuracy":6,"altitude":163,"timestamp":1478894149000,"speed":23.75,"heading":335.3999938964844,"user":"rephus"}
+21:2:35 [INFO] rest: Received POST body {"latitude":51.70719112,"longitude":-0.20136064,"accuracy":13,"altitude":174,"timestamp":1478894156000,"speed":23.020000457763672,"heading":338.70001220703125,"user":"rephus"}
+21:2:47 [INFO] rest: Received POST body {"latitude":51.70968558,"longitude":-0.20269959,"accuracy":23,"altitude":166,"timestamp":1478894167000,"speed":26.299999237060547,"heading":338.5,"user":"rephus"}
+21:3:2 [INFO] rest: Received POST body {"latitude":51.71162276,"longitude":-0.20337381,"accuracy":20,"altitude":160,"timestamp":1478894176000,"speed":25.75,"heading":349.5,"user":"rephus"}
+21:3:4 [INFO] rest: Received POST body {"latitude":51.71372541,"longitude":-0.20399888,"accuracy":17,"altitude":149,"timestamp":1478894185000,"speed":26.360000610351562,"heading":350.5,"user":"rephus"}
+21:3:12 [INFO] rest: Received POST body {"latitude":51.71523097,"longitude":-0.20440738,"accuracy":8,"altitude":140,"timestamp":1478894193000,"speed":22.399999618530273,"heading":354.1000061035156,"user":"rephus"}
+21:3:20 [INFO] rest: Received POST body {"latitude":51.71671554,"longitude":-0.20458889,"accuracy":11,"altitude":135,"timestamp":1478894201000,"speed":19.170000076293945,"heading":355,"user":"rephus"}
+21:3:36 [INFO] rest: Received POST body {"latitude":51.71800742,"longitude":-0.20460482,"accuracy":10,"altitude":131,"timestamp":1478894211000,"speed":14.6899995803833,"heading":357.6000061035156,"user":"rephus"}
+21:3:40 [INFO] rest: Received POST body {"latitude":51.7190579,"longitude":-0.20484241,"accuracy":14,"altitude":146,"timestamp":1478894220000,"speed":12.020000457763672,"heading":357.29998779296875,"user":"rephus"}
+21:3:49 [INFO] rest: Received POST body {"latitude":51.71995867,"longitude":-0.2048507,"accuracy":9,"altitude":142,"timestamp":1478894229000,"speed":11.59000015258789,"heading":356.79998779296875,"user":"rephus"}
+21:3:58 [INFO] rest: Received POST body {"latitude":51.72057604,"longitude":-0.20492337,"accuracy":15,"altitude":144,"timestamp":1478894238000,"speed":5.869999885559082,"heading":359.5,"user":"rephus"}
+21:5:19 [INFO] rest: Received POST body {"latitude":51.72740069,"longitude":-0.20536237,"accuracy":12,"altitude":149,"timestamp":1478894319000,"speed":23.6200008392334,"heading":358.1000061035156,"user":"rephus"}
+21:5:33 [INFO] rest: Received POST body {"latitude":51.73061083,"longitude":-0.20616793,"accuracy":19,"altitude":151,"timestamp":1478894334000,"speed":23.899999618530273,"heading":346.8999938964844,"user":"rephus"}
+21:5:43 [INFO] rest: Received POST body {"latitude":51.73209507,"longitude":-0.2069804,"accuracy":10,"altitude":147,"timestamp":1478894343000,"speed":19.31999969482422,"heading":341.20001220703125,"user":"rephus"}
+21:5:51 [INFO] rest: Received POST body {"latitude":51.73348248,"longitude":-0.20792023,"accuracy":17,"altitude":155,"timestamp":1478894352000,"speed":18.34000015258789,"heading":336.29998779296875,"user":"rephus"}
+21:6:0 [INFO] rest: Received POST body {"latitude":51.73441232,"longitude":-0.20868517,"accuracy":16,"altitude":147,"timestamp":1478894361000,"speed":12.5600004196167,"heading":332.8999938964844,"user":"rephus"}
+21:6:8 [INFO] rest: Received POST body {"latitude":51.7351431,"longitude":-0.20921767,"accuracy":10,"altitude":129,"timestamp":1478894369000,"speed":12.260000228881836,"heading":339.29998779296875,"user":"rephus"}
+21:6:19 [INFO] rest: Received POST body {"latitude":51.73581819,"longitude":-0.20984014,"accuracy":26,"altitude":148,"timestamp":1478894379000,"speed":7.309999942779541,"heading":330.29998779296875,"user":"rephus"}
+21:6:59 [INFO] rest: Received POST body {"latitude":51.73610003,"longitude":-0.21014884,"accuracy":24,"altitude":139,"timestamp":1478894420000,"speed":3.5,"heading":320.70001220703125,"user":"rephus"}
+21:7:5 [INFO] rest: Received POST body {"latitude":51.73621252,"longitude":-0.21052459,"accuracy":22,"altitude":133,"timestamp":1478894426000,"speed":4.829999923706055,"heading":302,"user":"rephus"}
+21:7:18 [INFO] rest: Received POST body {"latitude":51.73755478,"longitude":-0.21182426,"accuracy":28,"altitude":135,"timestamp":1478894438000,"speed":15.039999961853027,"heading":325.3999938964844,"user":"rephus"}
+21:7:23 [INFO] rest: Received POST body {"latitude":51.73824441,"longitude":-0.21247823,"accuracy":26,"altitude":133,"timestamp":1478894444000,"speed":14.75,"heading":330.1000061035156,"user":"rephus"}
+21:7:33 [INFO] rest: Received POST body {"latitude":51.73977337,"longitude":-0.21447604,"accuracy":23,"altitude":141,"timestamp":1478894454000,"speed":19.989999771118164,"heading":324.6000061035156,"user":"rephus"}
+21:7:43 [INFO] rest: Received POST body {"latitude":51.74174887,"longitude":-0.21615095,"accuracy":39,"altitude":155,"timestamp":1478894464000,"speed":23.049999237060547,"heading":325.8999938964844,"user":"rephus"}
+21:7:51 [INFO] rest: Received POST body {"latitude":51.74298858,"longitude":-0.21755123,"accuracy":29,"altitude":150,"timestamp":1478894472000,"speed":22.850000381469727,"heading":326.29998779296875,"user":"rephus"}
+21:8:4 [INFO] rest: Received POST body {"latitude":51.7452383,"longitude":-0.22016336,"accuracy":29,"altitude":155,"timestamp":1478894484000,"speed":26.06999969482422,"heading":332.3999938964844,"user":"rephus"}
+21:8:18 [INFO] rest: Received POST body {"latitude":51.74859202,"longitude":-0.22190671,"accuracy":14,"altitude":153,"timestamp":1478894499000,"speed":25.829999923706055,"heading":346.20001220703125,"user":"rephus"}
+21:8:31 [INFO] rest: Received POST body {"latitude":51.75073987,"longitude":-0.22233487,"accuracy":19,"altitude":139,"timestamp":1478894508000,"speed":26.15999984741211,"heading":352.3999938964844,"user":"rephus"}
+21:8:36 [INFO] rest: Received POST body {"latitude":51.75312507,"longitude":-0.22176733,"accuracy":13,"altitude":146,"timestamp":1478894517000,"speed":29.739999771118164,"heading":8.199999809265137,"user":"rephus"}
+21:8:46 [INFO] rest: Received POST body {"latitude":51.75566725,"longitude":-0.22071595,"accuracy":16,"altitude":138,"timestamp":1478894527000,"speed":29.950000762939453,"heading":18.899999618530273,"user":"rephus"}
+21:8:59 [INFO] rest: Received POST body {"latitude":51.75738086,"longitude":-0.21947773,"accuracy":10,"altitude":139,"timestamp":1478894534000,"speed":30.09000015258789,"heading":21.899999618530273,"user":"rephus"}
+21:9:4 [INFO] rest: Received POST body {"latitude":51.75926054,"longitude":-0.21791848,"accuracy":13,"altitude":138,"timestamp":1478894545000,"speed":20.489999771118164,"heading":25.100000381469727,"user":"rephus"}
+21:9:11 [INFO] rest: Received POST body {"latitude":51.76027597,"longitude":-0.2171624,"accuracy":9,"altitude":139,"timestamp":1478894552000,"speed":15.399999618530273,"heading":20.799999237060547,"user":"rephus"}
+21:9:21 [INFO] rest: Received POST body {"latitude":51.76145851,"longitude":-0.21642518,"accuracy":15,"altitude":147,"timestamp":1478894562000,"speed":13.510000228881836,"heading":20.200000762939453,"user":"rephus"}
+21:9:32 [INFO] rest: Received POST body {"latitude":51.7626144,"longitude":-0.21589602,"accuracy":16,"altitude":148,"timestamp":1478894572000,"speed":13.4399995803833,"heading":15.800000190734863,"user":"rephus"}
+21:9:38 [INFO] rest: Received POST body {"latitude":51.7634437,"longitude":-0.21560025,"accuracy":20,"altitude":148,"timestamp":1478894579000,"speed":13.3100004196167,"heading":13.5,"user":"rephus"}
+21:9:49 [INFO] rest: Received POST body {"latitude":51.76450409,"longitude":-0.2160056,"accuracy":16,"altitude":132,"timestamp":1478894589000,"speed":9.890000343322754,"heading":3,"user":"rephus"}
+21:9:57 [INFO] rest: Received POST body {"latitude":51.76513545,"longitude":-0.215827,"accuracy":20,"altitude":144,"timestamp":1478894598000,"speed":6.400000095367432,"heading":6.400000095367432,"user":"rephus"}
+21:10:7 [INFO] rest: Received POST body {"latitude":51.76547108,"longitude":-0.21622892,"accuracy":19,"altitude":117,"timestamp":1478894608000,"speed":4.849999904632568,"heading":313.8999938964844,"user":"rephus"}
+21:11:2 [INFO] rest: Received POST body {"latitude":51.76553142,"longitude":-0.2163301,"accuracy":26,"altitude":117,"timestamp":1478894610000,"speed":4.840000152587891,"heading":313.8999938964844,"user":"rephus"}
+21:11:5 [INFO] rest: Received POST body {"latitude":51.76796401,"longitude":-0.21575451,"accuracy":22,"altitude":132,"timestamp":1478894666000,"speed":7.880000114440918,"heading":20.200000762939453,"user":"rephus"}
+21:11:11 [INFO] rest: Received POST body {"latitude":51.76856779,"longitude":-0.21554711,"accuracy":21,"altitude":131,"timestamp":1478894672000,"speed":10.869999885559082,"heading":11.399999618530273,"user":"rephus"}
+21:11:22 [INFO] rest: Received POST body {"latitude":51.77126716,"longitude":-0.21590843,"accuracy":14,"altitude":92,"timestamp":1478894682000,"speed":23.139999389648438,"heading":356.8999938964844,"user":"rephus"}
+21:11:30 [INFO] rest: Received POST body {"latitude":51.77312743,"longitude":-0.21598404,"accuracy":20,"altitude":98,"timestamp":1478894691000,"speed":23.700000762939453,"heading":0.5,"user":"rephus"}
+21:11:39 [INFO] rest: Received POST body {"latitude":51.77529308,"longitude":-0.21601073,"accuracy":26,"altitude":101,"timestamp":1478894700000,"speed":26.3799991607666,"heading":359.79998779296875,"user":"rephus"}
+21:11:48 [INFO] rest: Received POST body {"latitude":51.7774384,"longitude":-0.21595485,"accuracy":23,"altitude":106,"timestamp":1478894709000,"speed":26.770000457763672,"heading":5.400000095367432,"user":"rephus"}
+21:11:58 [INFO] rest: Received POST body {"latitude":51.77939162,"longitude":-0.21524403,"accuracy":17,"altitude":116,"timestamp":1478894718000,"speed":25.389999389648438,"heading":11.5,"user":"rephus"}
+21:12:26 [INFO] rest: Received POST body {"latitude":51.78367341,"longitude":-0.21289385,"accuracy":24,"altitude":115,"timestamp":1478894747000,"speed":13.359999656677246,"heading":16.200000762939453,"user":"rephus"}
+21:12:32 [INFO] rest: Received POST body {"latitude":51.78449485,"longitude":-0.21252736,"accuracy":24,"altitude":116,"timestamp":1478894753000,"speed":15.279999732971191,"heading":15.800000190734863,"user":"rephus"}
+21:13:10 [INFO] rest: Received POST body {"latitude":51.7896502,"longitude":-0.20940481,"accuracy":17,"altitude":112,"timestamp":1478894791000,"speed":18.280000686645508,"heading":18.100000381469727,"user":"rephus"}
+21:13:15 [INFO] rest: Received POST body {"latitude":51.79086436,"longitude":-0.20925859,"accuracy":8,"altitude":115,"timestamp":1478894796000,"speed":18.899999618530273,"heading":17.200000762939453,"user":"rephus"}
+21:13:29 [INFO] rest: Received POST body {"latitude":51.79231961,"longitude":-0.20789296,"accuracy":21,"altitude":117,"timestamp":1478894809000,"speed":14.329999923706055,"heading":29,"user":"rephus"}
+21:13:53 [INFO] rest: Received POST body {"latitude":51.79311226,"longitude":-0.2074177,"accuracy":22,"altitude":119,"timestamp":1478894815000,"speed":15.449999809265137,"heading":21.899999618530273,"user":"rephus"}
+21:13:53 [INFO] rest: Received POST body {"latitude":51.79440411,"longitude":-0.20688251,"accuracy":20,"altitude":128,"timestamp":1478894825000,"speed":14.449999809265137,"heading":16.399999618530273,"user":"rephus"}
+21:14:7 [INFO] rest: Received POST body {"latitude":51.79732521,"longitude":-0.20533625,"accuracy":20,"altitude":128,"timestamp":1478894848000,"speed":13.720000267028809,"heading":18,"user":"rephus"}
+21:14:15 [INFO] rest: Received POST body {"latitude":51.79740065,"longitude":-0.20458932,"accuracy":25,"altitude":111,"timestamp":1478894856000,"speed":7.539999961853027,"heading":48.29999923706055,"user":"rephus"}
+21:14:25 [INFO] rest: Received POST body {"latitude":51.79842066,"longitude":-0.20445218,"accuracy":25,"altitude":71,"timestamp":1478894865000,"speed":10.289999961853027,"heading":12.600000381469727,"user":"rephus"}
+21:14:34 [INFO] rest: Received POST body {"latitude":51.79906018,"longitude":-0.20432709,"accuracy":19,"altitude":66,"timestamp":1478894874000,"speed":8.449999809265137,"heading":10,"user":"rephus"}
+21:15:5 [INFO] rest: Received POST body {"latitude":51.80102969,"longitude":-0.2035569,"accuracy":47,"altitude":102,"timestamp":1478894905000,"speed":2.200000047683716,"heading":4.400000095367432,"user":"rephus"}
+21:15:16 [INFO] rest: Received POST body {"latitude":51.8008546,"longitude":-0.20359913,"accuracy":11,"altitude":117,"timestamp":1478894917000,"speed":0.3400000035762787,"heading":241.39999389648438,"user":"rephus"}
+21:15:44 [INFO] rest: Received POST body {"latitude":51.8008949,"longitude":-0.2041626,"accuracy":50,"altitude":0,"timestamp":1478894940640,"speed":0,"heading":0,"user":"rephus"}
+21:15:48 [INFO] rest: Received POST body {"latitude":51.8003172,"longitude":-0.2043443,"accuracy":50,"altitude":0,"timestamp":1478894949387,"speed":0,"heading":0,"user":"rephus"}
+21:15:59 [INFO] rest: Received POST body {"latitude":51.8013086,"longitude":-0.2034219,"accuracy":50,"altitude":0,"timestamp":1478894958918,"speed":0,"heading":0,"user":"rephus"}
+21:16:16 [INFO] rest: Received POST body {"latitude":51.800317,"longitude":-0.2044373,"accuracy":50,"altitude":0,"timestamp":1478894976740,"speed":0,"heading":0,"user":"rephus"}
+21:16:53 [INFO] rest: Received POST body {"latitude":51.8020932,"longitude":-0.2028232,"accuracy":699.9990234375,"altitude":0,"timestamp":1478895010601,"speed":0,"heading":0,"user":"rephus"}
+21:17:3 [INFO] rest: Received POST body {"latitude":51.8004795,"longitude":-0.2029765,"accuracy":109.57499694824219,"altitude":0,"timestamp":1478895019864,"speed":0,"heading":0,"user":"rephus"}
+21:17:21 [INFO] rest: Received POST body {"latitude":51.8004557,"longitude":-0.2028744,"accuracy":28.632999420166016,"altitude":0,"timestamp":1478895042186,"speed":0,"heading":0,"user":"rephus"}
+21:17:48 [INFO] rest: Received POST body {"latitude":51.7992599,"longitude":-0.2001025,"accuracy":64.5,"altitude":0,"timestamp":1478895069140,"speed":0,"heading":0,"user":"rephus"}
+21:18:9 [INFO] rest: Received POST body {"latitude":51.7991199,"longitude":-0.2050328,"accuracy":899.9990234375,"altitude":0,"timestamp":1478895083630,"speed":0,"heading":0,"user":"rephus"}
+21:18:18 [INFO] rest: Received POST body {"latitude":51.7987945,"longitude":-0.2024273,"accuracy":699.9990234375,"altitude":0,"timestamp":1478895093836,"speed":0,"heading":0,"user":"rephus"}
+21:18:33 [INFO] rest: Received POST body {"latitude":51.7997912,"longitude":-0.1983441,"accuracy":1000,"altitude":0,"timestamp":1478895112028,"speed":0,"heading":0,"user":"rephus"}
+21:18:42 [INFO] rest: Received POST body {"latitude":51.7987945,"longitude":-0.2024273,"accuracy":699.9990234375,"altitude":0,"timestamp":1478895119348,"speed":0,"heading":0,"user":"rephus"}
+21:18:50 [INFO] rest: Received POST body {"latitude":51.7991199,"longitude":-0.2050328,"accuracy":899.9990234375,"altitude":0,"timestamp":1478895125831,"speed":0,"heading":0,"user":"rephus"}
+21:19:27 [INFO] rest: Received POST body {"latitude":51.8003301,"longitude":-0.1989035,"accuracy":37.5,"altitude":0,"timestamp":1478895167501,"speed":0,"heading":0,"user":"rephus"}
+21:19:38 [INFO] rest: Received POST body {"latitude":51.8004292,"longitude":-0.1990677,"accuracy":43.5,"altitude":0,"timestamp":1478895177359,"speed":0,"heading":0,"user":"rephus"}
+21:19:46 [INFO] rest: Received POST body {"latitude":51.8005612,"longitude":-0.1994516,"accuracy":52.5,"altitude":0,"timestamp":1478895186220,"speed":0,"heading":0,"user":"rephus"}
+21:19:55 [INFO] rest: Received POST body {"latitude":51.8004773,"longitude":-0.1991749,"accuracy":48,"altitude":0,"timestamp":1478895195244,"speed":0,"heading":0,"user":"rephus"}
+21:20:4 [INFO] rest: Received POST body {"latitude":51.8004154,"longitude":-0.1990118,"accuracy":34.5,"altitude":0,"timestamp":1478895205135,"speed":0,"heading":0,"user":"rephus"}
+21:20:14 [INFO] rest: Received POST body {"latitude":51.8004391,"longitude":-0.1990771,"accuracy":40.5,"altitude":0,"timestamp":1478895213928,"speed":0,"heading":0,"user":"rephus"}
+21:20:46 [INFO] rest: Received POST body {"latitude":51.8003496,"longitude":-0.1989652,"accuracy":37.5,"altitude":0,"timestamp":1478895245588,"speed":0,"heading":0,"user":"rephus"}
+21:21:45 [INFO] rest: Received POST body {"latitude":51.8000269,"longitude":-0.1977443,"accuracy":46.948001861572266,"altitude":0,"timestamp":1478895304350,"speed":0,"heading":0,"user":"rephus"}
+21:22:2 [INFO] rest: Received POST body {"latitude":51.7999376,"longitude":-0.1975982,"accuracy":37.5,"altitude":0,"timestamp":1478895322626,"speed":0,"heading":0,"user":"rephus"}
+21:22:21 [INFO] rest: Received POST body {"latitude":51.7999648,"longitude":-0.1974224,"accuracy":37.5,"altitude":0,"timestamp":1478895341065,"speed":0,"heading":0,"user":"rephus"}
+21:22:30 [INFO] rest: Received POST body {"latitude":51.7998758,"longitude":-0.1971363,"accuracy":19.565000534057617,"altitude":0,"timestamp":1478895350571,"speed":0,"heading":0,"user":"rephus"}
+21:22:40 [INFO] rest: Received POST body {"latitude":51.7997244,"longitude":-0.1970845,"accuracy":46.051998138427734,"altitude":0,"timestamp":1478895360305,"speed":0,"heading":0,"user":"rephus"}
+21:23:9 [INFO] rest: Received POST body {"latitude":51.8000343,"longitude":-0.1971452,"accuracy":41.44200134277344,"altitude":0,"timestamp":1478895388952,"speed":0,"heading":0,"user":"rephus"}
+21:23:18 [INFO] rest: Received POST body {"latitude":51.8001069,"longitude":-0.1967856,"accuracy":55.4739990234375,"altitude":0,"timestamp":1478895398115,"speed":0,"heading":0,"user":"rephus"}
+21:23:28 [INFO] rest: Received POST body {"latitude":51.7996517,"longitude":-0.195913,"accuracy":42,"altitude":0,"timestamp":1478895407506,"speed":0,"heading":0,"user":"rephus"}
+21:23:53 [INFO] rest: Received POST body {"latitude":51.7992269,"longitude":-0.1954047,"accuracy":45,"altitude":0,"timestamp":1478895427450,"speed":0,"heading":0,"user":"rephus"}
+21:24:6 [INFO] rest: Received POST body {"latitude":51.7991299,"longitude":-0.1953089,"accuracy":40.5,"altitude":0,"timestamp":1478895445891,"speed":0,"heading":0,"user":"rephus"}
+21:24:16 [INFO] rest: Received POST body {"latitude":51.7991376,"longitude":-0.1952305,"accuracy":68.99400329589844,"altitude":0,"timestamp":1478895455304,"speed":0,"heading":0,"user":"rephus"}
+21:24:35 [INFO] rest: Received POST body {"latitude":51.7991278,"longitude":-0.1951483,"accuracy":64.56700134277344,"altitude":0,"timestamp":1478895475151,"speed":0,"heading":0,"user":"rephus"}
+21:24:45 [INFO] rest: Received POST body {"latitude":51.7990081,"longitude":-0.1950289,"accuracy":39,"altitude":0,"timestamp":1478895485058,"speed":0,"heading":0,"user":"rephus"}
+21:25:3 [INFO] rest: Received POST body {"latitude":51.7989129,"longitude":-0.1949799,"accuracy":42,"altitude":0,"timestamp":1478895503561,"speed":0,"heading":0,"user":"rephus"}
+21:25:12 [INFO] rest: Received POST body {"latitude":51.798849,"longitude":-0.1945729,"accuracy":19.424999237060547,"altitude":0,"timestamp":1478895512582,"speed":0,"heading":0,"user":"rephus"}
+21:25:22 [INFO] rest: Received POST body {"latitude":51.7988906,"longitude":-0.1943408,"accuracy":21.374000549316406,"altitude":0,"timestamp":1478895522769,"speed":0,"heading":0,"user":"rephus"}
+21:25:32 [INFO] rest: Received POST body {"latitude":51.7988083,"longitude":-0.1942473,"accuracy":20.256000518798828,"altitude":0,"timestamp":1478895531886,"speed":0,"heading":0,"user":"rephus"}
+21:25:43 [INFO] rest: Received POST body {"latitude":51.7986846,"longitude":-0.1941999,"accuracy":19.450000762939453,"altitude":0,"timestamp":1478895542671,"speed":0,"heading":0,"user":"rephus"}
+21:25:51 [INFO] rest: Received POST body {"latitude":51.7987673,"longitude":-0.1941075,"accuracy":19.454999923706055,"altitude":0,"timestamp":1478895551067,"speed":0,"heading":0,"user":"rephus"}
+21:26:1 [INFO] rest: Received POST body {"latitude":51.7985502,"longitude":-0.1940802,"accuracy":30.42300033569336,"altitude":0,"timestamp":1478895560248,"speed":0,"heading":0,"user":"rephus"}
+21:26:11 [INFO] rest: Received POST body {"latitude":51.7986037,"longitude":-0.1932699,"accuracy":29.815000534057617,"altitude":0,"timestamp":1478895571018,"speed":0,"heading":0,"user":"rephus"}
+21:26:20 [INFO] rest: Received POST body {"latitude":51.7986035,"longitude":-0.1933628,"accuracy":30.972000122070312,"altitude":0,"timestamp":1478895580344,"speed":0,"heading":0,"user":"rephus"}
+21:26:29 [INFO] rest: Received POST body {"latitude":51.7979014,"longitude":-0.1939621,"accuracy":25.214000701904297,"altitude":0,"timestamp":1478895589652,"speed":0,"heading":0,"user":"rephus"}
+21:26:42 [INFO] rest: Received POST body {"latitude":51.7981112,"longitude":-0.1939675,"accuracy":26.041000366210938,"altitude":0,"timestamp":1478895599858,"speed":0,"heading":0,"user":"rephus"}
+21:26:48 [INFO] rest: Received POST body {"latitude":51.7980242,"longitude":-0.1939105,"accuracy":36,"altitude":0,"timestamp":1478895608345,"speed":0,"heading":0,"user":"rephus"}
+21:27:11 [INFO] rest: Received POST body {"latitude":51.7976889,"longitude":-0.1940677,"accuracy":36,"altitude":0,"timestamp":1478895630545,"speed":0,"heading":0,"user":"rephus"}
+21:27:28 [INFO] rest: Received POST body {"latitude":51.7978312,"longitude":-0.1930303,"accuracy":25,"altitude":0,"timestamp":1478895649160,"speed":0,"heading":0,"user":"rephus"}
+21:27:48 [INFO] rest: Received POST body {"latitude":51.79705,"longitude":-0.1938137,"accuracy":39,"altitude":0,"timestamp":1478895668220,"speed":0,"heading":0,"user":"rephus"}
+21:28:8 [INFO] rest: Received POST body {"latitude":51.7970031,"longitude":-0.1937941,"accuracy":40.5,"altitude":0,"timestamp":1478895688047,"speed":0,"heading":0,"user":"rephus"}
+21:28:17 [INFO] rest: Received POST body {"latitude":51.7968902,"longitude":-0.1937615,"accuracy":49.5,"altitude":0,"timestamp":1478895697764,"speed":0,"heading":0,"user":"rephus"}
+21:28:26 [INFO] rest: Received POST body {"latitude":51.7967388,"longitude":-0.1937236,"accuracy":40.5,"altitude":0,"timestamp":1478895706966,"speed":0,"heading":0,"user":"rephus"}
+21:28:44 [INFO] rest: Received POST body {"latitude":51.7964587,"longitude":-0.1935338,"accuracy":22.617000579833984,"altitude":0,"timestamp":1478895725433,"speed":0,"heading":0,"user":"rephus"}
+21:29:8 [INFO] rest: Received POST body {"latitude":51.7967016,"longitude":-0.1935342,"accuracy":43.5,"altitude":0,"timestamp":1478895744371,"speed":0,"heading":0,"user":"rephus"}
+21:29:22 [INFO] rest: Received POST body {"latitude":51.7963042,"longitude":-0.1935042,"accuracy":55.922000885009766,"altitude":0,"timestamp":1478895762574,"speed":0,"heading":0,"user":"rephus"}
+21:29:42 [INFO] rest: Received POST body {"latitude":51.795944,"longitude":-0.1931948,"accuracy":39.132999420166016,"altitude":0,"timestamp":1478895780818,"speed":0,"heading":0,"user":"rephus"}
+21:29:49 [INFO] rest: Received POST body {"latitude":51.7959642,"longitude":-0.1933445,"accuracy":24.4060001373291,"altitude":0,"timestamp":1478895790150,"speed":0,"heading":0,"user":"rephus"}
+21:29:59 [INFO] rest: Received POST body {"latitude":51.7957665,"longitude":-0.1931574,"accuracy":32.650001525878906,"altitude":0,"timestamp":1478895799214,"speed":0,"heading":0,"user":"rephus"}
+21:30:7 [INFO] rest: Received POST body {"latitude":51.7954695,"longitude":-0.1932481,"accuracy":21.134000778198242,"altitude":0,"timestamp":1478895808259,"speed":0,"heading":0,"user":"rephus"}
+21:30:17 [INFO] rest: Received POST body {"latitude":51.7953871,"longitude":-0.1931546,"accuracy":32.21699905395508,"altitude":0,"timestamp":1478895817909,"speed":0,"heading":0,"user":"rephus"}
+21:30:29 [INFO] rest: Received POST body {"latitude":51.7955109,"longitude":-0.193109,"accuracy":24.517000198364258,"altitude":0,"timestamp":1478895827167,"speed":0,"heading":0,"user":"rephus"}
+21:30:37 [INFO] rest: Received POST body {"latitude":51.7957172,"longitude":-0.193064,"accuracy":20.430999755859375,"altitude":0,"timestamp":1478895837877,"speed":0,"heading":0,"user":"rephus"}
+21:31:14 [INFO] rest: Received POST body {"latitude":51.7938533,"longitude":-0.1979301,"accuracy":600,"altitude":0,"timestamp":1478895870333,"speed":0,"heading":0,"user":"rephus"}
+21:31:19 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.625999450683594,"altitude":0,"timestamp":1478895875657,"speed":0,"heading":0,"user":"rephus"}
+21:32:2 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.50200080871582,"altitude":0,"timestamp":1478895923668,"speed":0,"heading":0,"user":"rephus"}
+21:46:17 [INFO] rest: Received GET params {}
+22:59:5 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":20,"altitude":0,"timestamp":1478901146830,"speed":0,"heading":0,"user":"rephus"}
+0:48:22 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.28499984741211,"altitude":0,"timestamp":1478907697084,"speed":0,"heading":0,"user":"rephus"}
+0:48:32 [INFO] rest: Received POST body {"latitude":51.79574822,"longitude":-0.1931754,"accuracy":30,"altitude":138,"timestamp":1478907713000,"speed":1.2000000476837158,"heading":165.10000610351562,"user":"rephus"}
+0:48:46 [INFO] rest: Received POST body {"latitude":51.79574673,"longitude":-0.19304453,"accuracy":37,"altitude":147,"timestamp":1478907727000,"speed":0.5799999833106995,"heading":146.8000030517578,"user":"rephus"}
+1:18:18 [INFO] rest: Received POST body {"latitude":51.7956344,"longitude":-0.1932493,"accuracy":20,"altitude":0,"timestamp":1478909499687,"speed":0,"heading":0,"user":"marbu"}
+1:18:29 [INFO] rest: Received POST body {"latitude":51.7955936,"longitude":-0.1930166,"accuracy":20.468000411987305,"altitude":0,"timestamp":1478909510184,"speed":0,"heading":0,"user":"marbu"}
+1:18:40 [INFO] rest: Received POST body {"latitude":51.7955109,"longitude":-0.193109,"accuracy":24.514999389648438,"altitude":0,"timestamp":1478909519545,"speed":0,"heading":0,"user":"marbu"}
+1:18:56 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":19.738000869750977,"altitude":0,"timestamp":1478909527566,"speed":0,"heading":0,"user":"marbu"}
+1:19:1 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.57699966430664,"altitude":0,"timestamp":1478909540818,"speed":0,"heading":0,"user":"marbu"}
+1:20:4 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.672000885009766,"altitude":0,"timestamp":1478909605941,"speed":0,"heading":0,"user":"marbu"}
+1:20:14 [INFO] rest: Received POST body {"latitude":51.7955521,"longitude":-0.1931558,"accuracy":18.833999633789062,"altitude":0,"timestamp":1478909615272,"speed":0,"heading":0,"user":"marbu"}
+1:20:23 [INFO] rest: Received POST body {"latitude":51.7956344,"longitude":-0.1932493,"accuracy":18.809999465942383,"altitude":0,"timestamp":1478909624157,"speed":0,"heading":0,"user":"marbu"}
+1:20:41 [INFO] rest: Received POST body {"latitude":51.7955522,"longitude":-0.1930628,"accuracy":21.61400032043457,"altitude":0,"timestamp":1478909642407,"speed":0,"heading":0,"user":"marbu"}
+1:20:50 [INFO] rest: Received POST body {"latitude":51.7955933,"longitude":-0.1932025,"accuracy":18.590999603271484,"altitude":0,"timestamp":1478909651706,"speed":0,"heading":0,"user":"marbu"}
+1:20:59 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.57200050354004,"altitude":0,"timestamp":1478909660506,"speed":0,"heading":0,"user":"marbu"}
+1:22:4 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.57200050354004,"altitude":0,"timestamp":1478909725299,"speed":0,"heading":0,"user":"marbu"}
+1:55:41 [INFO] rest: Received POST body {"latitude":51.795614,"longitude":-0.1931794,"accuracy":14.142000198364258,"altitude":0,"timestamp":1478911738498,"speed":0,"heading":0,"user":"rephus"}
+1:56:23 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":20,"altitude":0,"timestamp":1478911784864,"speed":0,"heading":0,"user":"rephus"}
+1:59:58 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.66200065612793,"altitude":0,"timestamp":1478911982611,"speed":0,"heading":0,"user":"rephus"}
+2:0:0 [INFO] rest: Received POST body {"latitude":51.79571107,"longitude":-0.19304795,"accuracy":11,"altitude":128,"timestamp":1478912001000,"speed":0,"heading":0,"user":"rephus"}
+2:0:29 [INFO] rest: Received POST body {"latitude":51.79572208,"longitude":-0.19303846,"accuracy":19,"altitude":120,"timestamp":1478912030000,"speed":0,"heading":0,"user":"rephus"}
+2:0:39 [INFO] rest: Received POST body {"latitude":51.7956693,"longitude":-0.19306181,"accuracy":13,"altitude":119,"timestamp":1478912040000,"speed":0,"heading":0,"user":"rephus"}
+2:0:45 [INFO] rest: Received POST body {"latitude":51.79561879,"longitude":-0.1930546,"accuracy":7,"altitude":126,"timestamp":1478912046000,"speed":0,"heading":0,"user":"rephus"}
+6:1:16 [INFO] rest: Received GET params {}
+6:50:29 [INFO] rest: Received GET params {}
+7:30:58 [INFO] rest: Received GET params {}
+7:41:2 [INFO] rest: Received GET params {}
+11:36:0 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":20,"altitude":0,"timestamp":1478946562006,"speed":0,"heading":0,"user":"rephus"}
+11:53:13 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":20,"altitude":0,"timestamp":1478947593997,"speed":0,"heading":0,"user":"rephus"}
+12:6:28 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:7:51 [INFO] rest: Received POST body {"latitude":51.155853,"longitude":-0.1633544,"accuracy":20,"altitude":0,"timestamp":1478948470340,"speed":0,"heading":0,"user":"marbu"}
+12:8:30 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:9:28 [INFO] rest: Received POST body {"latitude":51.7958899,"longitude":-0.1926333,"accuracy":56,"altitude":195,"timestamp":1478948569000,"speed":0,"heading":0,"user":"rephus"}
+12:9:33 [INFO] rest: Received POST body {"latitude":51.7959428,"longitude":-0.1928044,"accuracy":55,"altitude":187,"timestamp":1478948574000,"speed":0,"heading":0,"user":"rephus"}
+12:15:15 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":20,"altitude":0,"timestamp":1478948916166,"speed":0,"heading":0,"user":"rephus"}
+12:28:30 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:29:6 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:30:21 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:30:59 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:32:8 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:32:57 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:33:35 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:34:47 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+12:42:57 [INFO] rest: Received POST body {"latitude":51.155771,"longitude":-0.1635355,"accuracy":18.5,"altitude":0,"timestamp":1478950558657,"speed":0,"heading":0,"user":"marbu"}
+12:42:57 [INFO] rest: Received POST body {"latitude":51.155873,"longitude":-0.1636496,"accuracy":35,"altitude":0,"timestamp":1478950568924,"speed":0,"heading":0,"user":"marbu"}
+12:42:59 [INFO] rest: Received POST body {"latitude":51.15577,"longitude":-0.1642618,"accuracy":20.974000930786133,"altitude":0,"timestamp":1478950579168,"speed":0,"heading":0,"user":"marbu"}
+12:43:7 [INFO] rest: Received POST body {"latitude":51.1558516,"longitude":-0.164353,"accuracy":18.479000091552734,"altitude":0,"timestamp":1478950587197,"speed":0,"heading":0,"user":"marbu"}
+12:44:24 [INFO] rest: Received POST body {"latitude":51.1572393,"longitude":-0.1649967,"accuracy":50,"altitude":0,"timestamp":1478950662417,"speed":0,"heading":0,"user":"marbu"}
+12:45:46 [INFO] rest: Received POST body {"latitude":51.1580108,"longitude":-0.1681337,"accuracy":20.270000457763672,"altitude":0,"timestamp":1478950744031,"speed":0,"heading":0,"user":"marbu"}
+12:47:4 [INFO] rest: Received POST body {"latitude":51.1580103,"longitude":-0.1684969,"accuracy":20.268999099731445,"altitude":0,"timestamp":1478950818956,"speed":0,"heading":0,"user":"marbu"}
+12:48:9 [INFO] rest: Received POST body {"latitude":51.1580512,"longitude":-0.1684517,"accuracy":19.566999435424805,"altitude":0,"timestamp":1478950886120,"speed":0,"heading":0,"user":"marbu"}
+12:49:2 [INFO] rest: Received POST body {"latitude":51.1580103,"longitude":-0.1684969,"accuracy":20.268999099731445,"altitude":0,"timestamp":1478950942310,"speed":0,"heading":0,"user":"marbu"}
+12:49:12 [INFO] rest: Received POST body {"latitude":51.1580512,"longitude":-0.1684517,"accuracy":19.56599998474121,"altitude":0,"timestamp":1478950952291,"speed":0,"heading":0,"user":"marbu"}
+12:49:20 [INFO] rest: Received POST body {"latitude":51.1580103,"longitude":-0.1684969,"accuracy":20.267000198364258,"altitude":0,"timestamp":1478950960869,"speed":0,"heading":0,"user":"marbu"}
+12:49:31 [INFO] rest: Received POST body {"latitude":51.1579697,"longitude":-0.1683604,"accuracy":18.65399932861328,"altitude":0,"timestamp":1478950971392,"speed":0,"heading":0,"user":"marbu"}
+12:49:39 [INFO] rest: Received POST body {"latitude":51.1580103,"longitude":-0.1684969,"accuracy":19.374000549316406,"altitude":0,"timestamp":1478950979904,"speed":0,"heading":0,"user":"marbu"}
+12:51:28 [INFO] rest: Received POST body {"latitude":51.1579697,"longitude":-0.1683604,"accuracy":18.652000427246094,"altitude":0,"timestamp":1478951088138,"speed":0,"heading":0,"user":"marbu"}
+12:52:4 [INFO] rest: Received POST body {"latitude":51.1580103,"longitude":-0.1684969,"accuracy":20.266000747680664,"altitude":0,"timestamp":1478951124215,"speed":0,"heading":0,"user":"marbu"}
+12:53:43 [INFO] rest: Received POST body {"latitude":51.1580512,"longitude":-0.1684517,"accuracy":21.399999618530273,"altitude":0,"timestamp":1478951222712,"speed":0,"heading":0,"user":"marbu"}
+12:54:2 [INFO] rest: Received POST body {"latitude":51.1579695,"longitude":-0.1684512,"accuracy":19.566999435424805,"altitude":0,"timestamp":1478951242216,"speed":0,"heading":0,"user":"marbu"}
+12:54:19 [INFO] rest: Received POST body {"latitude":51.1580512,"longitude":-0.1684517,"accuracy":19.566999435424805,"altitude":0,"timestamp":1478951259016,"speed":0,"heading":0,"user":"marbu"}
+13:31:13 [INFO] rest: Received POST body {"latitude":51.795755,"longitude":-0.193435,"accuracy":39,"altitude":140,"timestamp":1478953474000,"speed":0,"heading":0,"user":"rephus"}
+13:31:19 [INFO] rest: Received POST body {"latitude":51.7957884,"longitude":-0.1931965,"accuracy":12,"altitude":141,"timestamp":1478953480000,"speed":0,"heading":0,"user":"rephus"}
+13:31:24 [INFO] rest: Received POST body {"latitude":51.7957088,"longitude":-0.1931613,"accuracy":11,"altitude":142,"timestamp":1478953485000,"speed":0,"heading":0,"user":"rephus"}
+13:31:24 [INFO] rest: Received POST body {"latitude":51.7957088,"longitude":-0.1931613,"accuracy":11,"altitude":142,"timestamp":1478953486033,"speed":0,"heading":0,"user":"rephus"}
+13:32:8 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":304.49200439453125,"altitude":0,"timestamp":1478953524702,"speed":0,"heading":0,"user":"rephus"}
+13:33:51 [INFO] rest: Received GET params {}
+13:33:51 [INFO] rest: Received GET params {}
+13:33:51 [INFO] rest: Received GET params {}
+13:33:51 [INFO] rest: Received GET params {}
+13:52:19 [INFO] rest: Received POST body {"latitude":51.7959229,"longitude":-0.1934388,"accuracy":18,"altitude":134,"timestamp":1478954737000,"speed":0,"heading":0,"user":"rephus"}
+13:52:22 [INFO] rest: Received POST body {"latitude":51.7958682,"longitude":-0.1934131,"accuracy":16,"altitude":134,"timestamp":1478954743000,"speed":0,"heading":0,"user":"rephus"}
+13:52:28 [INFO] rest: Received POST body {"latitude":51.795934,"longitude":-0.1934491,"accuracy":16,"altitude":128,"timestamp":1478954749000,"speed":0,"heading":0,"user":"rephus"}
+13:52:48 [INFO] rest: Received POST body {"latitude":51.795905,"longitude":-0.193436,"accuracy":16,"altitude":127,"timestamp":1478954769130,"speed":0,"heading":0,"user":"rephus"}
+13:58:57 [INFO] rest: Received POST body {"latitude":51.7956473,"longitude":-0.1937391,"accuracy":20,"altitude":112,"timestamp":1478955138930,"speed":1.809999942779541,"heading":258,"user":"rephus"}
+15:48:6 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":20,"altitude":0,"timestamp":1478961683291,"speed":0,"heading":0,"user":"rephus"}
+15:49:22 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.608999252319336,"altitude":0,"timestamp":1478961762182,"speed":0,"heading":0,"user":"rephus"}
+15:49:38 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":19.740999221801758,"altitude":0,"timestamp":1478961779491,"speed":0,"heading":0,"user":"rephus"}
+15:49:50 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.459999084472656,"altitude":0,"timestamp":1478961790821,"speed":0,"heading":0,"user":"rephus"}
+15:50:8 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.46500015258789,"altitude":0,"timestamp":1478961809123,"speed":0,"heading":0,"user":"rephus"}
+15:53:29 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":19.017000198364258,"altitude":0,"timestamp":1478962010037,"speed":0,"heading":0,"user":"rephus"}
+15:53:38 [INFO] rest: Received POST body {"latitude":51.7954696,"longitude":-0.1931552,"accuracy":25.155000686645508,"altitude":0,"timestamp":1478962019831,"speed":0,"heading":0,"user":"rephus"}
+15:53:47 [INFO] rest: Received POST body {"latitude":51.7956174,"longitude":-0.1931265,"accuracy":24,"altitude":0,"timestamp":1478962027815,"speed":0,"heading":0,"user":"rephus"}
+15:54:10 [INFO] rest: Received POST body {"latitude":51.7955524,"longitude":-0.1929699,"accuracy":24.635000228881836,"altitude":0,"timestamp":1478962038776,"speed":0,"heading":0,"user":"rephus"}
+15:54:41 [INFO] rest: Received POST body {"latitude":51.7955936,"longitude":-0.1930166,"accuracy":19.569000244140625,"altitude":0,"timestamp":1478962081509,"speed":0,"heading":0,"user":"rephus"}
+15:55:11 [INFO] rest: Received POST body {"latitude":51.7958402,"longitude":-0.193483,"accuracy":25.3439998626709,"altitude":0,"timestamp":1478962111721,"speed":0,"heading":0,"user":"rephus"}
+15:55:20 [INFO] rest: Received POST body {"latitude":51.7959639,"longitude":-0.1935304,"accuracy":23.52400016784668,"altitude":0,"timestamp":1478962121542,"speed":0,"heading":0,"user":"rephus"}
+15:55:30 [INFO] rest: Received POST body {"latitude":51.7958817,"longitude":-0.1933439,"accuracy":20.511999130249023,"altitude":0,"timestamp":1478962131578,"speed":0,"heading":0,"user":"rephus"}
+15:55:51 [INFO] rest: Received POST body {"latitude":51.795918,"longitude":-0.1936758,"accuracy":43.5,"altitude":0,"timestamp":1478962152145,"speed":0,"heading":0,"user":"rephus"}
+15:56:8 [INFO] rest: Received POST body {"latitude":51.795918,"longitude":-0.1936758,"accuracy":43.5,"altitude":0,"timestamp":1478962169084,"speed":0,"heading":0,"user":"rephus"}
+15:56:50 [INFO] rest: Received POST body {"latitude":51.795918,"longitude":-0.1936758,"accuracy":43.5,"altitude":0,"timestamp":1478962210782,"speed":0,"heading":0,"user":"rephus"}
+15:57:0 [INFO] rest: Received POST body {"latitude":51.79602,"longitude":-0.19345828,"accuracy":13,"altitude":137,"timestamp":1478962220000,"speed":0,"heading":0,"user":"rephus"}
+15:57:10 [INFO] rest: Received POST body {"latitude":51.79594731,"longitude":-0.19343537,"accuracy":15,"altitude":142,"timestamp":1478962231000,"speed":0,"heading":0,"user":"rephus"}
+15:58:29 [INFO] rest: Received POST body {"latitude":51.79842329,"longitude":-0.19455218,"accuracy":19,"altitude":85,"timestamp":1478962309000,"speed":11.300000190734863,"heading":338,"user":"rephus"}
+15:58:37 [INFO] rest: Received POST body {"latitude":51.79875715,"longitude":-0.19529662,"accuracy":23,"altitude":79,"timestamp":1478962318000,"speed":3.2100000381469727,"heading":295.20001220703125,"user":"rephus"}
+15:58:46 [INFO] rest: Received POST body {"latitude":51.79932295,"longitude":-0.19559954,"accuracy":14,"altitude":103,"timestamp":1478962327000,"speed":8.09000015258789,"heading":3.799999952316284,"user":"rephus"}
+15:58:55 [INFO] rest: Received POST body {"latitude":51.80017601,"longitude":-0.19531367,"accuracy":22,"altitude":100,"timestamp":1478962336000,"speed":11.100000381469727,"heading":2.700000047683716,"user":"rephus"}
+15:59:4 [INFO] rest: Received POST body {"latitude":51.80085229,"longitude":-0.19552327,"accuracy":25,"altitude":98,"timestamp":1478962345000,"speed":6.769999980926514,"heading":349,"user":"rephus"}
+15:59:13 [INFO] rest: Received POST body {"latitude":51.80156182,"longitude":-0.19635502,"accuracy":27,"altitude":117,"timestamp":1478962354000,"speed":11.170000076293945,"heading":308,"user":"rephus"}
+15:59:25 [INFO] rest: Received POST body {"latitude":51.80210731,"longitude":-0.19765512,"accuracy":28,"altitude":115,"timestamp":1478962365000,"speed":3.880000114440918,"heading":299.5,"user":"rephus"}
+15:59:30 [INFO] rest: Received POST body {"latitude":51.80205888,"longitude":-0.197823,"accuracy":19,"altitude":114,"timestamp":1478962371000,"speed":1.5700000524520874,"heading":255.8000030517578,"user":"rephus"}
+15:59:41 [INFO] rest: Received POST body {"latitude":51.80205185,"longitude":-0.19810868,"accuracy":37,"altitude":116,"timestamp":1478962382000,"speed":1.6100000143051147,"heading":244.89999389648438,"user":"rephus"}
+15:59:49 [INFO] rest: Received POST body {"latitude":51.80210137,"longitude":-0.19802145,"accuracy":39,"altitude":120,"timestamp":1478962390000,"speed":0.699999988079071,"heading":346.70001220703125,"user":"rephus"}
+15:59:58 [INFO] rest: Received POST body {"latitude":51.80236623,"longitude":-0.19871415,"accuracy":26,"altitude":108,"timestamp":1478962399000,"speed":12.020000457763672,"heading":294.70001220703125,"user":"rephus"}
+16:0:8 [INFO] rest: Received POST body {"latitude":51.80272245,"longitude":-0.20076648,"accuracy":13,"altitude":103,"timestamp":1478962408000,"speed":15.670000076293945,"heading":290.70001220703125,"user":"rephus"}
+16:0:16 [INFO] rest: Received POST body {"latitude":51.80301834,"longitude":-0.20281479,"accuracy":16,"altitude":128,"timestamp":1478962417000,"speed":15.430000305175781,"heading":285.70001220703125,"user":"rephus"}
+16:0:26 [INFO] rest: Received POST body {"latitude":51.80317004,"longitude":-0.20391961,"accuracy":11,"altitude":136,"timestamp":1478962427000,"speed":1.4500000476837158,"heading":294.29998779296875,"user":"rephus"}
+16:0:32 [INFO] rest: Received POST body {"latitude":51.80322368,"longitude":-0.20397079,"accuracy":13,"altitude":133,"timestamp":1478962433000,"speed":1.1399999856948853,"heading":349.5,"user":"rephus"}
+16:0:45 [INFO] rest: Received POST body {"latitude":51.80286434,"longitude":-0.2048796,"accuracy":34,"altitude":150,"timestamp":1478962446000,"speed":6.03000020980835,"heading":271.20001220703125,"user":"rephus"}
+16:0:51 [INFO] rest: Received POST body {"latitude":51.80267445,"longitude":-0.2052866,"accuracy":29,"altitude":141,"timestamp":1478962452000,"speed":7.260000228881836,"heading":216.8000030517578,"user":"rephus"}
+16:1:4 [INFO] rest: Received POST body {"latitude":51.80308244,"longitude":-0.20612755,"accuracy":47,"altitude":156,"timestamp":1478962464000,"speed":5.380000114440918,"heading":339.1000061035156,"user":"rephus"}
+16:1:9 [INFO] rest: Received POST body {"latitude":51.80359492,"longitude":-0.20640711,"accuracy":25,"altitude":148,"timestamp":1478962470000,"speed":4.599999904632568,"heading":312.79998779296875,"user":"rephus"}
+16:1:22 [INFO] rest: Received POST body {"latitude":51.80384289,"longitude":-0.207163,"accuracy":36,"altitude":159,"timestamp":1478962482000,"speed":7.139999866485596,"heading":298.1000061035156,"user":"rephus"}
+16:1:28 [INFO] rest: Received POST body {"latitude":51.8038552,"longitude":-0.20739378,"accuracy":36,"altitude":157,"timestamp":1478962489000,"speed":4.679999828338623,"heading":249.3000030517578,"user":"rephus"}
+16:1:42 [INFO] rest: Received POST body {"latitude":51.8033301,"longitude":-0.20788207,"accuracy":20,"altitude":137,"timestamp":1478962500000,"speed":7.269999980926514,"heading":205.60000610351562,"user":"rephus"}
+16:1:56 [INFO] rest: Received POST body {"latitude":51.80268825,"longitude":-0.20816893,"accuracy":19,"altitude":148,"timestamp":1478962516000,"speed":1.440000057220459,"heading":187.60000610351562,"user":"rephus"}
+16:2:4 [INFO] rest: Received POST body {"latitude":51.80234435,"longitude":-0.20822619,"accuracy":16,"altitude":138,"timestamp":1478962525000,"speed":0,"heading":0,"user":"rephus"}
+16:2:13 [INFO] rest: Received POST body {"latitude":51.80217204,"longitude":-0.20827387,"accuracy":16,"altitude":132,"timestamp":1478962533000,"speed":8.989999771118164,"heading":197.10000610351562,"user":"rephus"}
+16:2:25 [INFO] rest: Received POST body {"latitude":51.80117009,"longitude":-0.20880839,"accuracy":29,"altitude":130,"timestamp":1478962545000,"speed":9.210000038146973,"heading":206.60000610351562,"user":"rephus"}
+16:2:30 [INFO] rest: Received POST body {"latitude":51.80103552,"longitude":-0.20846464,"accuracy":19,"altitude":129,"timestamp":1478962551000,"speed":6.789999961853027,"heading":116.19999694824219,"user":"rephus"}
+16:2:42 [INFO] rest: Received POST body {"latitude":51.80088286,"longitude":-0.20801013,"accuracy":30,"altitude":140,"timestamp":1478962562000,"speed":2.240000009536743,"heading":138.60000610351562,"user":"rephus"}
+16:2:50 [INFO] rest: Received POST body {"latitude":51.80077825,"longitude":-0.20791889,"accuracy":35,"altitude":136,"timestamp":1478962571000,"speed":2.0399999618530273,"heading":162.6999969482422,"user":"rephus"}
+16:2:58 [INFO] rest: Received POST body {"latitude":51.80070772,"longitude":-0.20806842,"accuracy":21,"altitude":131,"timestamp":1478962579000,"speed":0.6299999952316284,"heading":214.5,"user":"rephus"}
+16:3:9 [INFO] rest: Received POST body {"latitude":51.80063878,"longitude":-0.2079314,"accuracy":17,"altitude":124,"timestamp":1478962589000,"speed":4.090000152587891,"heading":117.4000015258789,"user":"rephus"}
+16:3:36 [INFO] rest: Received POST body {"latitude":51.80083019,"longitude":-0.20676661,"accuracy":17,"altitude":128,"timestamp":1478962617000,"speed":0.8700000047683716,"heading":32.79999923706055,"user":"rephus"}
+16:3:45 [INFO] rest: Received POST body {"latitude":51.80076047,"longitude":-0.20684138,"accuracy":15,"altitude":124,"timestamp":1478962625000,"speed":0,"heading":0,"user":"rephus"}
+16:3:54 [INFO] rest: Received POST body {"latitude":51.80069189,"longitude":-0.20697173,"accuracy":19,"altitude":124,"timestamp":1478962634000,"speed":0,"heading":0,"user":"rephus"}
+16:5:16 [INFO] rest: Received POST body {"latitude":51.80069189,"longitude":-0.20697173,"accuracy":19,"altitude":124,"timestamp":1478962636000,"speed":0,"heading":0,"user":"rephus"}
+16:5:28 [INFO] rest: Received POST body {"latitude":51.80067705,"longitude":-0.20683933,"accuracy":21,"altitude":126,"timestamp":1478962728000,"speed":0,"heading":0,"user":"rephus"}
+16:6:28 [INFO] rest: Received POST body {"latitude":51.80067204,"longitude":-0.20681115,"accuracy":25,"altitude":127,"timestamp":1478962748000,"speed":0,"heading":0,"user":"rephus"}
+16:6:44 [INFO] rest: Received POST body {"latitude":51.8002169,"longitude":-0.2048382,"accuracy":37.5,"altitude":0,"timestamp":1478962802095,"speed":0,"heading":0,"user":"rephus"}
+16:7:23 [INFO] rest: Received POST body {"latitude":51.8002169,"longitude":-0.2048387,"accuracy":36,"altitude":0,"timestamp":1478962842509,"speed":0,"heading":0,"user":"rephus"}
+16:8:16 [INFO] rest: Received POST body {"latitude":51.7994505,"longitude":-0.2046633,"accuracy":1000,"altitude":0,"timestamp":1478962891265,"speed":0,"heading":0,"user":"rephus"}
+16:8:24 [INFO] rest: Received POST body {"latitude":51.7991199,"longitude":-0.2050328,"accuracy":899.9990234375,"altitude":0,"timestamp":1478962900302,"speed":0,"heading":0,"user":"rephus"}
+16:8:32 [INFO] rest: Received POST body {"latitude":51.8000347,"longitude":-0.2048343,"accuracy":20,"altitude":0,"timestamp":1478962913494,"speed":0,"heading":0,"user":"rephus"}
+16:9:8 [INFO] rest: Received POST body {"latitude":51.7991199,"longitude":-0.2050328,"accuracy":899.9990234375,"altitude":0,"timestamp":1478962937448,"speed":0,"heading":0,"user":"rephus"}
+16:9:9 [INFO] rest: Received POST body {"latitude":51.8000307,"longitude":-0.2048415,"accuracy":24,"altitude":0,"timestamp":1478962950633,"speed":0,"heading":0,"user":"rephus"}
+16:9:31 [INFO] rest: Received POST body {"latitude":51.8000187,"longitude":-0.2049783,"accuracy":86.16400146484375,"altitude":0,"timestamp":1478962970633,"speed":0,"heading":0,"user":"rephus"}
+16:9:38 [INFO] rest: Received POST body {"latitude":51.8005633,"longitude":-0.2050899,"accuracy":21.200000762939453,"altitude":0,"timestamp":1478962978593,"speed":0,"heading":0,"user":"rephus"}
+16:9:49 [INFO] rest: Received POST body {"latitude":51.800646,"longitude":-0.2049976,"accuracy":24.797000885009766,"altitude":0,"timestamp":1478962988870,"speed":0,"heading":0,"user":"rephus"}
+16:9:58 [INFO] rest: Received POST body {"latitude":51.8008101,"longitude":-0.2054637,"accuracy":23.05699920654297,"altitude":0,"timestamp":1478962998277,"speed":0,"heading":0,"user":"rephus"}
+16:10:7 [INFO] rest: Received POST body {"latitude":51.8008513,"longitude":-0.2055105,"accuracy":26.30699920654297,"altitude":0,"timestamp":1478963007432,"speed":0,"heading":0,"user":"rephus"}
+16:10:15 [INFO] rest: Received POST body {"latitude":51.8007284,"longitude":-0.2049982,"accuracy":33.23500061035156,"altitude":0,"timestamp":1478963015717,"speed":0,"heading":0,"user":"rephus"}
+16:10:25 [INFO] rest: Received POST body {"latitude":51.8006711,"longitude":-0.2053523,"accuracy":30,"altitude":0,"timestamp":1478963025380,"speed":0,"heading":0,"user":"rephus"}
+16:10:36 [INFO] rest: Received POST body {"latitude":51.8008141,"longitude":-0.2048681,"accuracy":83.15899658203125,"altitude":0,"timestamp":1478963034611,"speed":0,"heading":0,"user":"rephus"}
+16:10:57 [INFO] rest: Received POST body {"latitude":51.8010593,"longitude":-0.2044428,"accuracy":18.66900062561035,"altitude":0,"timestamp":1478963057271,"speed":0,"heading":0,"user":"rephus"}
+16:11:6 [INFO] rest: Received POST body {"latitude":51.8011412,"longitude":-0.2048153,"accuracy":20.844999313354492,"altitude":0,"timestamp":1478963066507,"speed":0,"heading":0,"user":"rephus"}
+16:11:15 [INFO] rest: Received POST body {"latitude":51.8011828,"longitude":-0.2045831,"accuracy":18.985000610351562,"altitude":0,"timestamp":1478963075404,"speed":0,"heading":0,"user":"rephus"}
+16:12:4 [INFO] rest: Received POST body {"latitude":51.8010582,"longitude":-0.2050936,"accuracy":18.63800048828125,"altitude":0,"timestamp":1478963122392,"speed":0,"heading":0,"user":"rephus"}
+16:12:15 [INFO] rest: Received POST body {"latitude":51.8010169,"longitude":-0.2051398,"accuracy":18.53499984741211,"altitude":0,"timestamp":1478963135780,"speed":0,"heading":0,"user":"rephus"}
+17:41:17 [INFO] rest: Received POST body {"latitude":51.7948405,"longitude":-0.1994242,"accuracy":899.9990234375,"altitude":0,"timestamp":1478968474871,"speed":0,"heading":0,"user":"rephus"}
+17:41:28 [INFO] rest: Received POST body {"latitude":51.795634,"longitude":-0.1935281,"accuracy":23.29800033569336,"altitude":0,"timestamp":1478968488269,"speed":0,"heading":0,"user":"rephus"}
+17:41:35 [INFO] rest: Received POST body {"latitude":51.7956344,"longitude":-0.1932493,"accuracy":18.82200050354004,"altitude":0,"timestamp":1478968496555,"speed":0,"heading":0,"user":"rephus"}
+17:41:45 [INFO] rest: Received POST body {"latitude":51.7956343,"longitude":-0.1933422,"accuracy":19.763999938964844,"altitude":0,"timestamp":1478968506258,"speed":0,"heading":0,"user":"rephus"}
+17:41:53 [INFO] rest: Received POST body {"latitude":51.7955521,"longitude":-0.1931558,"accuracy":18.836999893188477,"altitude":0,"timestamp":1478968514365,"speed":0,"heading":0,"user":"rephus"}
+17:42:3 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":19.722000122070312,"altitude":0,"timestamp":1478968523675,"speed":0,"heading":0,"user":"rephus"}
+17:42:25 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.743999481201172,"altitude":0,"timestamp":1478968546031,"speed":0,"heading":0,"user":"rephus"}
+17:42:43 [INFO] rest: Received POST body {"latitude":51.7955936,"longitude":-0.1930166,"accuracy":19.56599998474121,"altitude":0,"timestamp":1478968564169,"speed":0,"heading":0,"user":"rephus"}
+17:42:47 [INFO] rest: Received GET params {}
+17:42:59 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.559999465942383,"altitude":0,"timestamp":1478968578056,"speed":0,"heading":0,"user":"rephus"}
+17:43:9 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.559999465942383,"altitude":0,"timestamp":1478968590168,"speed":0,"heading":0,"user":"rephus"}
+18:6:22 [INFO] rest: Received GET params {}
+20:10:39 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.2810001373291,"altitude":0,"timestamp":1478977440486,"speed":0,"heading":0,"user":"rephus"}
+20:12:0 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.183000564575195,"altitude":0,"timestamp":1478977521007,"speed":0,"heading":0,"user":"rephus"}
+20:14:52 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.208999633789062,"altitude":0,"timestamp":1478977693520,"speed":0,"heading":0,"user":"rephus"}
+20:15:32 [INFO] rest: Received POST body {"latitude":51.79558333,"longitude":-0.19323386,"accuracy":49,"altitude":124,"timestamp":1478977734000,"speed":0,"heading":0,"user":"rephus"}
+1:37:30 [INFO] rest: Received GET params {}
+1:37:54 [INFO] rest: Received GET params {}
+2:25:24 [INFO] rest: Received GET params {}
+2:51:30 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.422000885009766,"altitude":0,"timestamp":1479001477461,"speed":0,"heading":0,"user":"rephus"}
+2:51:47 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
+2:52:42 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.490999221801758,"altitude":0,"timestamp":1479001563489,"speed":0,"heading":0,"user":"rephus"}
+2:54:5 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.64299964904785,"altitude":0,"timestamp":1479001646044,"speed":0,"heading":0,"user":"rephus"}
+2:54:15 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.597000122070312,"altitude":0,"timestamp":1479001655883,"speed":0,"heading":0,"user":"rephus"}
+3:16:58 [INFO] rest: Received GET params {}
+3:17:9 [INFO] rest: Received GET params {}
+3:17:19 [INFO] rest: Received GET params {}
+3:17:29 [INFO] rest: Received GET params {}
+5:35:19 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":20,"altitude":0,"timestamp":1479011320185,"speed":0,"heading":0,"user":"rephus"}
+5:36:37 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.631000518798828,"altitude":0,"timestamp":1479011397738,"speed":0,"heading":0,"user":"rephus"}
+5:36:46 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.57200050354004,"altitude":0,"timestamp":1479011407357,"speed":0,"heading":0,"user":"rephus"}
+5:36:56 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":21.58099937438965,"altitude":0,"timestamp":1479011416476,"speed":0,"heading":0,"user":"rephus"}
+5:37:5 [INFO] rest: Received POST body {"latitude":51.7955933,"longitude":-0.1932025,"accuracy":18.638999938964844,"altitude":0,"timestamp":1479011425706,"speed":0,"heading":0,"user":"rephus"}
+5:37:39 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":19.732999801635742,"altitude":0,"timestamp":1479011460367,"speed":0,"heading":0,"user":"rephus"}
+5:38:12 [INFO] rest: Received POST body {"latitude":51.7955109,"longitude":-0.193109,"accuracy":23.631999969482422,"altitude":0,"timestamp":1479011493268,"speed":0,"heading":0,"user":"rephus"}
+5:38:21 [INFO] rest: Received POST body {"latitude":51.7955936,"longitude":-0.1930166,"accuracy":19.56399917602539,"altitude":0,"timestamp":1479011502132,"speed":0,"heading":0,"user":"rephus"}
+5:39:9 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.583999633789062,"altitude":0,"timestamp":1479011550213,"speed":0,"heading":0,"user":"rephus"}
+5:40:14 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.600000381469727,"altitude":0,"timestamp":1479011614804,"speed":0,"heading":0,"user":"rephus"}
+5:40:19 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.652000427246094,"altitude":0,"timestamp":1479011620443,"speed":0,"heading":0,"user":"rephus"}
+5:41:4 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.652000427246094,"altitude":0,"timestamp":1479011665023,"speed":0,"heading":0,"user":"rephus"}
+5:45:3 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.652000427246094,"altitude":0,"timestamp":1479011903656,"speed":0,"heading":0,"user":"rephus"}
+5:45:43 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.652000427246094,"altitude":0,"timestamp":1479011943777,"speed":0,"heading":0,"user":"rephus"}
+5:45:54 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.535999298095703,"altitude":0,"timestamp":1479011955334,"speed":0,"heading":0,"user":"rephus"}
+5:46:49 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.535999298095703,"altitude":0,"timestamp":1479012010416,"speed":0,"heading":0,"user":"rephus"}
+5:47:33 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.535999298095703,"altitude":0,"timestamp":1479012053774,"speed":0,"heading":0,"user":"rephus"}
+5:48:54 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.535999298095703,"altitude":0,"timestamp":1479012135381,"speed":0,"heading":0,"user":"rephus"}
+5:51:35 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.604000091552734,"altitude":0,"timestamp":1479012295894,"speed":0,"heading":0,"user":"rephus"}
+5:53:39 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.604000091552734,"altitude":0,"timestamp":1479012420308,"speed":0,"heading":0,"user":"rephus"}
+5:54:55 [INFO] rest: Received POST body {"latitude":51.7956347,"longitude":-0.1930634,"accuracy":18.604000091552734,"altitude":0,"timestamp":1479012495704,"speed":0,"heading":0,"user":"rephus"}
+5:57:40 [INFO] rest: Received POST body {"latitude":51.7955933,"longitude":-0.1932025,"accuracy":19.485000610351562,"altitude":0,"timestamp":1479012660791,"speed":0,"heading":0,"user":"rephus"}
+5:59:50 [INFO] rest: Received POST body {"latitude":51.7955933,"longitude":-0.1932025,"accuracy":19.485000610351562,"altitude":0,"timestamp":1479012790663,"speed":0,"heading":0,"user":"rephus"}
+6:2:26 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.461000442504883,"altitude":0,"timestamp":1479012947315,"speed":0,"heading":0,"user":"rephus"}
+6:3:26 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.461000442504883,"altitude":0,"timestamp":1479013006933,"speed":0,"heading":0,"user":"rephus"}
+6:6:1 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.399999618530273,"altitude":0,"timestamp":1479013162288,"speed":0,"heading":0,"user":"rephus"}
+6:6:40 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.399999618530273,"altitude":0,"timestamp":1479013200862,"speed":0,"heading":0,"user":"rephus"}
+7:11:38 [INFO] rest: Received GET params {}
+9:7:22 [INFO] rest: Received GET params {}
+10:1:12 [INFO] rest: Received GET params {}
+11:11:20 [INFO] rest: Received GET params {}
+17:1:53 [INFO] rest: Received GET params {}
+17:1:54 [INFO] rest: Received GET params {}
+17:12:57 [INFO] rest: Received POST body {"latitude":51.7956346,"longitude":-0.1931563,"accuracy":18.381999969482422,"altitude":0,"timestamp":1479053167577,"speed":0,"heading":0,"user":"rephus"}
+19:13:14 [INFO] rest: Received GET params {}
+21:42:51 [INFO] rest: Received GET params {"key":"0349170813c202472449d1622ef7c2ef"}
